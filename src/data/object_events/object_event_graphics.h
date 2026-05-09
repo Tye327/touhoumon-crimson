@@ -635,3 +635,9 @@ const u16 gObjectEventPic_PidgeyOld[] = INCGFX_U16("graphics/object_events/pics/
 const u16 gObjectEventPic_ClefairyOld[] = INCGFX_U16("graphics/object_events/pics/pokemon_old/clefairy.png", ".4bpp", "-mwidth 2 -mheight 2");
 
 #endif // IS_FRLG
+
+//Touhou OW Sprites
+const u16 gObjectEventPal_ItemOrb[] = INCGFX_U16("graphics/object_events/palettes/ItemOrb.pal", ".gbapal");
+const u32 gObjectEventPic_ItemOrb[] = INCGFX_U32("graphics/object_events/pics/touhou/ItemOrb.png", ".4bpp");
+const u16 gObjectEventPal_TMOrb[] = INCGFX_U16("graphics/object_events/palettes/TMOrb.pal", ".gbapal");
+const u32 gObjectEventPic_TMOrb[] = INCGFX_U32("graphics/object_events/pics/touhou/TMOrb.png", ".4bpp");
