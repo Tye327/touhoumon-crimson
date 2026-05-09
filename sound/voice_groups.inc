@@ -201,3 +201,11 @@
 .include "sound/voicegroups/rg_sevii_45.inc"
 .include "sound/voicegroups/rg_sevii_67.inc"
 .include "sound/voicegroups/drumsets/rg_credits.inc"
+
+@Touhou and misc
+.include "sound/voicegroups/zgs_main.inc"
+.include "sound/voicegroups/dd_skuller_drill_missile.inc"
+.include "sound/voicegroups/dd_underwater.inc"
+.include "sound/voicegroups/wld_main.inc"
+.include "sound/voicegroups/casino_pinball.inc"
+.include "sound/voicegroups/casino_gacha.inc"
