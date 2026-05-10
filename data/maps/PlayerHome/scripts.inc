@@ -66,7 +66,7 @@ PlayerHome_EventScript_Yukari::
 	release
 	end
 
-PlayerHome_Movement_MomApproach:
+PlayerHome_Movement_MomApproach::
 	walk_right
 	walk_right
 	walk_right
@@ -83,7 +83,7 @@ PlayerHome_Text_LookingGreatTakeCare::
 	.string "Puppets are looking great.\l"
 	.string "Take care, honey!$"
 
-PlayerHome_Text_DontPushYourselfTooHard:
+PlayerHome_Text_DontPushYourselfTooHard::
 	.string "Don't push yourself too hard, dear.\n"
 	.string "You can always come home.\p"
 	.string "Go for it, honey!$"
@@ -96,11 +96,11 @@ PlayerHome_Text_TodaysTheDay::
 PlayerHome_Text_WhatTimeIsIt::
 	.string "But first, what time is it right now?$"
 
-PlayerHome_Text_NowThatThatIsTakenCareOf
+PlayerHome_Text_NowThatThatIsTakenCareOf::
 	.string "Mom: Now that that is taken care of…$"
 
 PlayerHome_Text_LetsGo::
 	.string "Let's go!\n$"
 
-PlayerHome_Text_Yukari:
+PlayerHome_Text_Yukari::
 	.string "Yu!$"
