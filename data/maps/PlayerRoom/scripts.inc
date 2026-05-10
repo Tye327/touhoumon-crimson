@@ -1,14 +1,9 @@
 PlayerRoom_MapScripts::
 	.byte 0
 
-
 PlayerRoom_EventScript_WallClock::
 	lockall
 	setvar VAR_0x8004, MALE
-	goto PlayerRoom_EventScript_WallClock
-	end
-
-PlayerRoom_EventScript_WallClock::
 	goto_if_set FLAG_SET_WALL_CLOCK, PlayerRoom_EventScript_CheckWallClock
 	msgbox PlayerRoom_Text_ClockIsStopped, MSGBOX_DEFAULT
 	call PlayerRoom_EventScript_SetWallClock
