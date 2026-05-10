@@ -85,7 +85,7 @@
       "flag": "FLAG_HIDE_STARTERS"
     },
     {
-      "local_id": "LOCAL_ID_YOUMU",
+      "local_id": "LOCALID_YOUMU_ORB",
       "graphics_id": "OBJ_EVENT_GFX_ITEM_ORB",
       "x": 12,
       "y": 4,
