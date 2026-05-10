@@ -901,7 +901,7 @@ static const struct SpriteTemplate sSpriteTemplate_MonIconOnLvlUpBanner =
 #define _ 0
 
 static const struct PickupItem sPickupTable[] =
-{//   Item                      1+  11+  21+  31+  41+  51+  61+  71+  81+  91+   Levels
+{//   Item                      1+  11+  21+  31+  41+  51+  61+  71+  81+  91+   Levels    //Todo
     { ITEM_POTION,          {  35,   _,   _,   _,   _,   _,   _,   _,   _,   _, } },
     { ITEM_TINY_MUSHROOM,   {  25,  10,   _,   _,   _,   _,   _,   _,   _,   _, } },
     { ITEM_REPEL,           {   8,  30,   _,   _,   _,   _,   _,   _,   _,   _, } },

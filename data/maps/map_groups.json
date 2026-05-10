@@ -74,7 +74,11 @@
     "gMapGroup_IndoorFiveIslandRoute_Frlg",
     "gMapGroup_IndoorTwoIslandRoute_Frlg",
     "gMapGroup_IndoorSixIslandRoute_Frlg",
-    "gMapGroup_IndoorSevenIslandRoute_Frlg"
+    "gMapGroup_IndoorSevenIslandRoute_Frlg",
+    "gMapGroup_Towns_C",
+    "gMapGroup_Routes_C",
+    "gMapGroup_Dungeons_C",
+    "gMapGroup_IndoorWondrous"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -1160,5 +1164,18 @@
   ],
   "gMapGroup_IndoorSevenIslandRoute_Frlg": [
     "SevenIsland_SevaultCanyon_House_Frlg"
+  ],
+  "gMapGroup_Towns_C": [
+    "WondrousTown"
+  ],
+  "gMapGroup_Routes_C": [
+    "WondrousBeach",
+    "Route1_C"
+  ],
+  "gMapGroup_Dungeons_C": [],
+  "gMapGroup_IndoorWondrous": [
+    "PlayerRoom",
+    "PlayerHome",
+    "WondrousLab"
   ]
 }
