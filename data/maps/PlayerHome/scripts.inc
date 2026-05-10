@@ -16,6 +16,7 @@ PlayerHome_OnFrame::
 	.2byte 0
 
 PlayerHome_EventScript_MomStarter::
+	lockall
 	applymovement LOCALID_PLAYER_HOME_MOM, Common_Movement_FacePlayer
 	msgbox PlayerHome_Text_TodaysTheDay
 	closemessage
