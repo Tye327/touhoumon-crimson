@@ -16,10 +16,10 @@ PlayerHome_OnFrame::
 	.2byte 0
 
 PlayerHome_EventScript_MomStarter::
-	applymovement LOCAL_ID_PLAYER_HOME_MOM, Common_Movement_FacePlayer
+	applymovement LOCALID_PLAYER_HOME_MOM, Common_Movement_FacePlayer
 	msgbox PlayerHome_Text_TodaysTheDay
 	closemessage
-	applymovement LOCAL_ID_PLAYER_HOME_MOM, PlayerHome_Movement_MomApproach
+	applymovement LOCALID_PLAYER_HOME_MOM, PlayerHome_Movement_MomApproach
 	waitmovement 0
 	goto_if_set FLAG_SET_WALL_CLOCK, PlayerHome_EventScript_MomLetsGo
 	msgbox PlayerHome_Text_WhatTimeIsIt
