@@ -353,8 +353,20 @@
     {
       "id": "HEAL_LOCATION_WONDROUS_TOWN",
       "map": "MAP_WONDROUS_TOWN",
-      "x": 10,
-      "y": 16
+      "x": 11,
+      "y": 25
+    },
+    {
+      "id": "HEAL_LOCATION_RECORD_TOWN",
+      "map": "MAP_RECORD_TOWN",
+      "x": 17,
+      "y": 10
+    },
+    {
+      "id": "HEAL_LOCATION_REFLECTING_CITY",
+      "map": "MAP_REFLECTING_CITY",
+      "x": 9,
+      "y": 41
     }
   ]
 }

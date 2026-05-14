@@ -1638,6 +1638,26 @@
     {
       "id": "MAPSEC_ROUTE_1C",
       "name": "Route 1"
+    },
+    {
+      "id": "MAPSEC_RECORD_TOWN",
+      "name": "Record Town"
+    },
+    {
+      "id": "MAPSEC_FAIRY_FOREST",
+      "name": "Fairy Forest"
+    },
+    {
+      "id": "MAPSEC_REFLECTING_CITY",
+      "name": "Reflecting City"
+    },
+    {
+      "id": "MAPSEC_ROUTE_2C",
+      "name": "Route 2"
+    },
+    {
+      "id": "MAPSEC_COMMON_CAVE",
+      "name": "Common Cave"
     }
   ]
 }

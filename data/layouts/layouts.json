@@ -9383,6 +9383,66 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route1_C/border.bin",
       "blockdata_filepath": "data/layouts/Route1_C/map.bin"
+    },
+    {
+      "id": "LAYOUT_RECORD_TOWN",
+      "name": "RecordTown_Layout",
+      "width": 24,
+      "height": 24,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/RecordTown/border.bin",
+      "blockdata_filepath": "data/layouts/RecordTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_FAIRY_FOREST",
+      "name": "FairyForest_Layout",
+      "width": 64,
+      "height": 64,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/FairyForest/border.bin",
+      "blockdata_filepath": "data/layouts/FairyForest/map.bin"
+    },
+    {
+      "id": "LAYOUT_REFLECTING_CITY",
+      "name": "ReflectingCity_Layout",
+      "width": 56,
+      "height": 64,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/ReflectingCity/border.bin",
+      "blockdata_filepath": "data/layouts/ReflectingCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE2_C",
+      "name": "Route2_C_Layout",
+      "width": 124,
+      "height": 32,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/Route2_C/border.bin",
+      "blockdata_filepath": "data/layouts/Route2_C/map.bin"
+    },
+    {
+      "id": "LAYOUT_COMMON_CAVE_1F",
+      "name": "CommonCave_1F_Layout",
+      "width": 64,
+      "height": 32,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/CommonCave_1F/border.bin",
+      "blockdata_filepath": "data/layouts/CommonCave_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_COMMON_CAVE_B1F",
+      "name": "CommonCave_B1F_Layout",
+      "width": 64,
+      "height": 32,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/CommonCave_B1F/border.bin",
+      "blockdata_filepath": "data/layouts/CommonCave_B1F/map.bin"
     }
   ]
 }

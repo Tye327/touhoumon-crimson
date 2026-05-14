@@ -1051,7 +1051,7 @@
 #define FLAG_UNUSED_0x2BB  0x2BB // Unused Flag
 
 //Touhou Hidden Items
-//#define FLAG_HIDDEN_ITEM_LAVARIDGE_TOWN_ICE_HEAL             (FLAG_HIDDEN_ITEMS_START + 0x00)
+#define FLAG_HIDDEN_ITEM_RECORD_TOWN_FULL_HEAL             (FLAG_HIDDEN_ITEMS_START + 0x00)
 //#define FLAG_HIDDEN_ITEM_TRICK_HOUSE_NUGGET                  (FLAG_HIDDEN_ITEMS_START + 0x01)
 //#define FLAG_HIDDEN_ITEM_ROUTE_111_STARDUST                  (FLAG_HIDDEN_ITEMS_START + 0x02)
 //#define FLAG_HIDDEN_ITEM_ROUTE_113_ETHER                     (FLAG_HIDDEN_ITEMS_START + 0x03)
@@ -2110,10 +2110,10 @@
 #define FLAG_UNUSED_0x4EF                                           0x4EF // Unused Flag
 
 //Touhou Item Orb Flags
-//#define FLAG_ITEM_ROUTE_102_POTION                                  0x3E8
-//#define FLAG_ITEM_ROUTE_116_X_SPECIAL                               0x3E9
-//#define FLAG_ITEM_ROUTE_104_PP_UP                                   0x3EA
-//#define FLAG_ITEM_ROUTE_105_IRON                                    0x3EB
+#define FLAG_ITEM_WONDROUS_BEACH_POTION                             0x3E8
+#define FLAG_ITEM_ROUTE_1_ORB_1                                     0x3E9
+#define FLAG_ITEM_ROUTE_1_ORB_2                                     0x3EA
+#define FLAG_ITEM_RECORD_TOWN_GREAT_ORB                             0x3EB
 //#define FLAG_ITEM_ROUTE_106_PROTEIN                                 0x3EC
 //#define FLAG_ITEM_ROUTE_109_PP_UP                                   0x3ED
 //#define FLAG_ITEM_ROUTE_110_RARE_CANDY                              0x3EE
