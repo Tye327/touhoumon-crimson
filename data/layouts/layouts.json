@@ -9417,7 +9417,7 @@
     {
       "id": "LAYOUT_ROUTE2_C",
       "name": "Route2_C_Layout",
-      "width": 124,
+      "width": 130,
       "height": 32,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Rustboro",
