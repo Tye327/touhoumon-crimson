@@ -2602,7 +2602,7 @@ const u32 gObjectEventPic_Substitute[] = INCGFX_COMP("graphics/pokemon/question_
     const u8 gMonFootprint_Abra[] = INCGFX_U8("graphics/pokemon/abra/footprint.png", ".1bpp");
 #endif //P_FOOTPRINTS
 #if OW_POKEMON_OBJECT_EVENTS
-    const u32 gObjectEventPic_Abra[] = INCGFX_COMP("graphics/pokemon/abra/overworld.png", ".4bpp", "-mwidth 4 -mheight 4");
+    const u32 gObjectEventPic_Abra[] = INCGFX_COMP("graphics/pokemon/abra/overworld.png", ".8bpp", "-mwidth 4 -mheight 4");
 #if OW_PKMN_OBJECTS_SHARE_PALETTES == FALSE
     const u16 gOverworldPalette_Abra[] = INCGFX_U16("graphics/pokemon/abra/overworld_normal.pal", ".gbapal");
     const u16 gShinyOverworldPalette_Abra[] = INCGFX_U16("graphics/pokemon/abra/overworld_shiny.pal", ".gbapal");
