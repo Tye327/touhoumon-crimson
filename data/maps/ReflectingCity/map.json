@@ -50,14 +50,14 @@
   "warp_events": [
     {
       "x": 0,
-      "y": 55,
+      "y": 61,
       "elevation": 0,
       "dest_map": "MAP_FAIRY_FOREST",
       "dest_warp_id": "2"
     },
     {
       "x": 1,
-      "y": 55,
+      "y": 61,
       "elevation": 0,
       "dest_map": "MAP_FAIRY_FOREST",
       "dest_warp_id": "3"

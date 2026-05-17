@@ -9443,6 +9443,56 @@
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/CommonCave_B1F/border.bin",
       "blockdata_filepath": "data/layouts/CommonCave_B1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ULTRAMARINE_CITY",
+      "name": "UltramarineCity_Layout",
+      "width": 48,
+      "height": 28,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mauville",
+      "border_filepath": "data/layouts/UltramarineCity/border.bin",
+      "blockdata_filepath": "data/layouts/UltramarineCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_TEN_TRAIL",
+      "name": "TenTrail_Layout",
+      "width": 64,
+      "height": 36,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mauville",
+      "border_filepath": "data/layouts/TenTrail/border.bin",
+      "blockdata_filepath": "data/layouts/TenTrail/map.bin"
+    },
+    {
+      "id": "LAYOUT_GUIGNOL_GROVE",
+      "name": "GuignolGrove_Layout",
+      "width": 64,
+      "height": 64,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/GuignolGrove/border.bin",
+      "blockdata_filepath": "data/layouts/GuignolGrove/map.bin"
+    },
+    {
+      "id": "LAYOUT_RAINBOW_RIVER",
+      "name": "RainbowRiver_Layout",
+      "width": 80,
+      "height": 32,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/RainbowRiver/border.bin",
+      "blockdata_filepath": "data/layouts/RainbowRiver/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE3_C",
+      "name": "Route3_C_Layout",
+      "width": 124,
+      "height": 24,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mauville",
+      "border_filepath": "data/layouts/Route3_C/border.bin",
+      "blockdata_filepath": "data/layouts/Route3_C/map.bin"
     }
   ]
 }

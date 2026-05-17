@@ -1,0 +1,49 @@
+{
+  "id": "MAP_GUIGNOL_GROVE",
+  "name": "GuignolGrove",
+  "layout": "LAYOUT_GUIGNOL_GROVE",
+  "music": "MUS_ZGS_VIRIDIAN_FOREST",
+  "region_map_section": "MAPSEC_GUIGNOL_GROVE",
+  "requires_flash": false,
+  "weather": "WEATHER_SHADE",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": true,
+  "allow_escaping": true,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": null,
+  "object_events": [],
+  "warp_events": [
+    {
+      "x": 32,
+      "y": 61,
+      "elevation": 0,
+      "dest_map": "MAP_FAIRY_FOREST",
+      "dest_warp_id": "4"
+    },
+    {
+      "x": 33,
+      "y": 61,
+      "elevation": 0,
+      "dest_map": "MAP_FAIRY_FOREST",
+      "dest_warp_id": "5"
+    },
+    {
+      "x": 32,
+      "y": 5,
+      "elevation": 0,
+      "dest_map": "MAP_RAINBOW_RIVER",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 33,
+      "y": 5,
+      "elevation": 0,
+      "dest_map": "MAP_RAINBOW_RIVER",
+      "dest_warp_id": "1"
+    }
+  ],
+  "coord_events": [],
+  "bg_events": []
+}

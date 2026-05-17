@@ -1658,6 +1658,26 @@
     {
       "id": "MAPSEC_COMMON_CAVE",
       "name": "Common Cave"
+    },
+    {
+      "id": "MAPSEC_ULTRAMARINE_CITY",
+      "name": "Ten Trail"
+    },
+    {
+      "id": "MAPSEC_TEN_TRAIL",
+      "name": "Ten Trail"
+    },
+    {
+      "id": "MAPSEC_GUIGNOL_GROVE",
+      "name": "Guignol Grove"
+    },
+    {
+      "id": "MAPSEC_RAINBOW_RIVER",
+      "name": "Rainbow River"
+    },
+    {
+      "id": "MAPSEC_ROUTE_3C",
+      "name": "Route 3"
     }
   ]
 }

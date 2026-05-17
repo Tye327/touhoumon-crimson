@@ -367,6 +367,12 @@
       "map": "MAP_REFLECTING_CITY",
       "x": 9,
       "y": 41
+    },
+    {
+      "id": "HEAL_LOCATION_ULTRAMARINE_CITY",
+      "map": "MAP_ULTRAMARINE_CITY",
+      "x": 14,
+      "y": 13
     }
   ]
 }

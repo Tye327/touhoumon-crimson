@@ -1168,17 +1168,22 @@
   "gMapGroup_Towns_C": [
     "WondrousTown",
     "RecordTown",
-    "ReflectingCity"
+    "ReflectingCity",
+    "UltramarineCity"
   ],
   "gMapGroup_Routes_C": [
     "WondrousBeach",
     "Route1_C",
-    "Route2_C"
+    "Route2_C",
+    "TenTrail",
+    "RainbowRiver",
+    "Route3_C"
   ],
   "gMapGroup_Dungeons_C": [
     "FairyForest",
     "CommonCave_1F",
-    "CommonCave_B1F"
+    "CommonCave_B1F",
+    "GuignolGrove"
   ],
   "gMapGroup_IndoorWondrous": [
     "PlayerRoom",

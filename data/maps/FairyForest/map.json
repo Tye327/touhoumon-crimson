@@ -82,6 +82,20 @@
       "elevation": 0,
       "dest_map": "MAP_REFLECTING_CITY",
       "dest_warp_id": "1"
+    },
+    {
+      "x": 32,
+      "y": 3,
+      "elevation": 0,
+      "dest_map": "MAP_GUIGNOL_GROVE",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 33,
+      "y": 3,
+      "elevation": 0,
+      "dest_map": "MAP_GUIGNOL_GROVE",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [],
