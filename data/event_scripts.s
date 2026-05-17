@@ -1749,3 +1749,25 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/WondrousBeach/scripts.inc"
 
 	.include "data/maps/Route1_C/scripts.inc"
+
+	.include "data/maps/RecordTown/scripts.inc"
+
+	.include "data/maps/FairyForest/scripts.inc"
+
+	.include "data/maps/ReflectingCity/scripts.inc"
+
+	.include "data/maps/Route2_C/scripts.inc"
+
+	.include "data/maps/CommonCave_1F/scripts.inc"
+
+	.include "data/maps/CommonCave_B1F/scripts.inc"
+
+	.include "data/maps/UltramarineCity/scripts.inc"
+
+	.include "data/maps/TenTrail/scripts.inc"
+
+	.include "data/maps/GuignolGrove/scripts.inc"
+
+	.include "data/maps/RainbowRiver/scripts.inc"
+
+	.include "data/maps/Route3_C/scripts.inc"

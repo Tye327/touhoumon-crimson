@@ -1166,13 +1166,25 @@
     "SevenIsland_SevaultCanyon_House_Frlg"
   ],
   "gMapGroup_Towns_C": [
-    "WondrousTown"
+    "WondrousTown",
+    "RecordTown",
+    "ReflectingCity",
+    "UltramarineCity"
   ],
   "gMapGroup_Routes_C": [
     "WondrousBeach",
-    "Route1_C"
+    "Route1_C",
+    "Route2_C",
+    "TenTrail",
+    "RainbowRiver",
+    "Route3_C"
   ],
-  "gMapGroup_Dungeons_C": [],
+  "gMapGroup_Dungeons_C": [
+    "FairyForest",
+    "CommonCave_1F",
+    "CommonCave_B1F",
+    "GuignolGrove"
+  ],
   "gMapGroup_IndoorWondrous": [
     "PlayerRoom",
     "PlayerHome",

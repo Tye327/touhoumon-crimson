@@ -27,8 +27,8 @@
   "object_events": [
     {
       "graphics_id": "OBJ_EVENT_GFX_BERRY_TREE",
-      "x": 21,
-      "y": 3,
+      "x": 4,
+      "y": 2,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_BERRY_TREE_GROWTH",
       "movement_range_x": 0,
@@ -40,8 +40,8 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_BERRY_TREE",
-      "x": 22,
-      "y": 3,
+      "x": 5,
+      "y": 2,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_BERRY_TREE_GROWTH",
       "movement_range_x": 0,
@@ -54,8 +54,8 @@
   ],
   "warp_events": [
     {
-      "x": 10,
-      "y": 15,
+      "x": 11,
+      "y": 24,
       "elevation": 0,
       "dest_map": "MAP_PLAYER_HOME",
       "dest_warp_id": "1",

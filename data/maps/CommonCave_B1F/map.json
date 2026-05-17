@@ -1,0 +1,63 @@
+{
+  "id": "MAP_COMMON_CAVE_B1F",
+  "name": "CommonCave_B1F",
+  "layout": "LAYOUT_COMMON_CAVE_B1F",
+  "music": "MUS_ZGS_MT_MOON",
+  "region_map_section": "MAPSEC_COMMON_CAVE",
+  "requires_flash": false,
+  "weather": "WEATHER_SUNNY",
+  "map_type": "MAP_TYPE_UNDERGROUND",
+  "allow_cycling": true,
+  "allow_escaping": true,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": null,
+  "object_events": [],
+  "warp_events": [
+    {
+      "x": 2,
+      "y": 7,
+      "elevation": 0,
+      "dest_map": "MAP_COMMON_CAVE_1F",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "elevation": 0,
+      "dest_map": "MAP_COMMON_CAVE_1F",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 32,
+      "y": 1,
+      "elevation": 0,
+      "dest_map": "MAP_COMMON_CAVE_1F",
+      "dest_warp_id": "2"
+    },
+    {
+      "x": 62,
+      "y": 1,
+      "elevation": 0,
+      "dest_map": "MAP_COMMON_CAVE_1F",
+      "dest_warp_id": "3"
+    },
+    {
+      "x": 59,
+      "y": 13,
+      "elevation": 0,
+      "dest_map": "MAP_COMMON_CAVE_1F",
+      "dest_warp_id": "4"
+    },
+    {
+      "x": 53,
+      "y": 26,
+      "elevation": 0,
+      "dest_map": "MAP_COMMON_CAVE_1F",
+      "dest_warp_id": "5"
+    }
+  ],
+  "coord_events": [],
+  "bg_events": []
+}

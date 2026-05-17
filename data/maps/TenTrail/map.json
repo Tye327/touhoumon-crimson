@@ -1,0 +1,31 @@
+{
+  "id": "MAP_TEN_TRAIL",
+  "name": "TenTrail",
+  "layout": "LAYOUT_TEN_TRAIL",
+  "music": "MUS_ZGS_ROUTE3",
+  "region_map_section": "MAPSEC_TEN_TRAIL",
+  "requires_flash": false,
+  "weather": "WEATHER_SUNNY",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_ROUTE2_C",
+      "offset": 11,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_ULTRAMARINE_CITY",
+      "offset": 12,
+      "direction": "right"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}

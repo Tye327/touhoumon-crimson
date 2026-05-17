@@ -1,0 +1,39 @@
+{
+  "id": "MAP_ULTRAMARINE_CITY",
+  "name": "UltramarineCity",
+  "layout": "LAYOUT_ULTRAMARINE_CITY",
+  "music": "MUS_ZGS_CELADON",
+  "region_map_section": "MAPSEC_ULTRAMARINE_CITY",
+  "requires_flash": false,
+  "weather": "WEATHER_SUNNY",
+  "map_type": "MAP_TYPE_TOWN",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_TEN_TRAIL",
+      "offset": -12,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_ROUTE3_C",
+      "offset": 26,
+      "direction": "down"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [
+    {
+      "x": 6,
+      "y": 5,
+      "elevation": 0,
+      "dest_map": "MAP_COMMON_CAVE_1F",
+      "dest_warp_id": "7"
+    }
+  ],
+  "coord_events": [],
+  "bg_events": []
+}
