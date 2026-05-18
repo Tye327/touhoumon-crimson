@@ -20,14 +20,14 @@
       "y": 29,
       "elevation": 0,
       "dest_map": "MAP_GUIGNOL_GROVE",
-      "dest_warp_id": "2"
+      "dest_warp_id": "0"
     },
     {
       "x": 13,
       "y": 29,
       "elevation": 0,
       "dest_map": "MAP_GUIGNOL_GROVE",
-      "dest_warp_id": "3"
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [],
