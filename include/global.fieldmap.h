@@ -104,7 +104,7 @@ struct Tileset
     /*0x04*/ const u32 *tiles;
     /*0x08*/ const u16 (*palettes)[16];
     /*0x0C*/ const u16 *metatiles;
-    /*0x10*/ const u16 *metatileAttributes;
+    /*0x10*/ const u32 *metatileAttributes;
     /*0x14*/ TilesetCB callback;
 };
 
