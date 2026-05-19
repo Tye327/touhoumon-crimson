@@ -11,6 +11,7 @@
   "allow_escaping": true,
   "allow_running": true,
   "show_map_name": true,
+  "floor_number": 0,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
@@ -22,15 +23,15 @@
   "object_events": [],
   "warp_events": [
     {
-      "x": 32,
-      "y": 5,
+      "x": 31,
+      "y": 6,
       "elevation": 0,
       "dest_map": "MAP_RAINBOW_RIVER",
       "dest_warp_id": "0"
     },
     {
-      "x": 33,
-      "y": 5,
+      "x": 32,
+      "y": 6,
       "elevation": 0,
       "dest_map": "MAP_RAINBOW_RIVER",
       "dest_warp_id": "1"

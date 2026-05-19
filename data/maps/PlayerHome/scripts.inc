@@ -70,8 +70,6 @@ PlayerHome_EventScript_Yukari::
 PlayerHome_Movement_MomApproach::
 	walk_right
 	walk_right
-	walk_right
-	walk_up
 	walk_up
 	step_end
 
