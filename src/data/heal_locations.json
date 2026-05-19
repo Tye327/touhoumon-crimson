@@ -355,32 +355,32 @@
       "map": "MAP_WONDROUS_TOWN",
       "x": 9,
       "y": 25,
-      "respawn_map": "",
-      "respawn_npc": ""
+      "respawn_map": "MAP_PLAYER_HOME",
+      "respawn_npc": "LOCALID_PLAYER_HOME_MOM"
     },
     {
       "id": "HEAL_LOCATION_RECORD_TOWN",
       "map": "MAP_RECORD_TOWN",
       "x": 19,
       "y": 10,
-      "respawn_map": "",
-      "respawn_npc": ""
+      "respawn_map": "MAP_PLAYER_HOME",
+      "respawn_npc": "LOCALID_PLAYER_HOME_MOM"
     },
     {
       "id": "HEAL_LOCATION_REFLECTING_CITY",
       "map": "MAP_REFLECTING_CITY",
       "x": 10,
       "y": 41,
-      "respawn_map": "",
-      "respawn_npc": ""
+      "respawn_map": "MAP_PLAYER_HOME",
+      "respawn_npc": "LOCALID_PLAYER_HOME_MOM"
     },
     {
       "id": "HEAL_LOCATION_ULTRAMARINE_CITY",
       "map": "MAP_ULTRAMARINE_CITY",
       "x": 15,
       "y": 13,
-      "respawn_map": "",
-      "respawn_npc": ""
+      "respawn_map": "MAP_PLAYER_HOME",
+      "respawn_npc": "LOCALID_PLAYER_HOME_MOM"
     }
   ]
 }
