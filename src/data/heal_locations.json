@@ -369,7 +369,7 @@
     {
       "id": "HEAL_LOCATION_REFLECTING_CITY",
       "map": "MAP_REFLECTING_CITY",
-      "x": 10,
+      "x": 14,
       "y": 41,
       "respawn_map": "MAP_PLAYER_HOME",
       "respawn_npc": "LOCALID_PLAYER_HOME_MOM"
