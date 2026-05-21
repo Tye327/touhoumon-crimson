@@ -428,19 +428,19 @@ u8 MapGridGetCollisionAt(int x, int y)
 u32 GetNumTilesInPrimary(struct MapLayout const *mapLayout)
 {
     //return mapLayout->isFrlg ? NUM_TILES_IN_PRIMARY_FRLG : NUM_TILES_IN_PRIMARY;
-    return NUM_TILES_IN_PRIMARY_FRLG
+    return NUM_TILES_IN_PRIMARY_FRLG;
 }
 
 u32 GetNumMetatilesInPrimary(struct MapLayout const *mapLayout)
 {
     //return mapLayout->isFrlg ? NUM_METATILES_IN_PRIMARY_FRLG : NUM_METATILES_IN_PRIMARY;
-    return NUM_METATILES_IN_PRIMARY_FRLG
+    return NUM_METATILES_IN_PRIMARY_FRLG;
 }
 
 u32 GetNumPalsInPrimary(struct MapLayout const *mapLayout)
 {
     //return mapLayout->isFrlg ? NUM_PALS_IN_PRIMARY_FRLG : NUM_PALS_IN_PRIMARY;
-    NUM_PALS_IN_PRIMARY_FRLG
+    return NUM_PALS_IN_PRIMARY_FRLG;
 }
 
 u32 MapGridGetMetatileIdAt(int x, int y)
