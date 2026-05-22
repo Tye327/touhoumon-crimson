@@ -52,7 +52,7 @@ static bool8 IsCoordInIncomingConnectingMap(int coord, int srcMax, int destMax, 
 static inline u16 GetBorderBlockAt(int x, int y)
 {
     const struct MapLayout *mapLayout = gMapHeader.mapLayout;
-    //Touhou
+
     if (mapLayout->isFrlg)
     {
         s32 xprime;

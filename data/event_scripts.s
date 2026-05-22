@@ -1769,3 +1769,9 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/RainbowRiver/scripts.inc"
 
 	.include "data/maps/Route3_C/scripts.inc"
+
+	.include "data/maps/SilentSwamp/scripts.inc"
+	.include "data/maps/SilentSwamp/text.inc"
+
+	.include "data/maps/LotusLake/scripts.inc"
+	.include "data/maps/LotusLake/text.inc"

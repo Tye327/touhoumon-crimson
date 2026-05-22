@@ -1177,7 +1177,9 @@
     "Route2_C",
     "TenTrail",
     "RainbowRiver",
-    "Route3_C"
+    "Route3_C",
+    "SilentSwamp",
+    "LotusLake"
   ],
   "gMapGroup_Dungeons_C": [
     "FairyForest",

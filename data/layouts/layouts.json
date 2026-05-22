@@ -10409,6 +10409,30 @@
       "secondary_tileset": "gTileset_Swamp",
       "border_filepath": "data/layouts/Route3_C/border.bin",
       "blockdata_filepath": "data/layouts/Route3_C/map.bin"
+    },
+    {
+      "id": "LAYOUT_SILENT_SWAMP",
+      "name": "SilentSwamp_Layout",
+      "width": 64,
+      "height": 64,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralFrlg",
+      "secondary_tileset": "gTileset_Swamp",
+      "border_filepath": "data/layouts/SilentSwamp/border.bin",
+      "blockdata_filepath": "data/layouts/SilentSwamp/map.bin"
+    },
+    {
+      "id": "LAYOUT_LOTUS_LAKE",
+      "name": "LotusLake_Layout",
+      "width": 64,
+      "height": 64,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralFrlg",
+      "secondary_tileset": "gTileset_Swamp",
+      "border_filepath": "data/layouts/LotusLake/border.bin",
+      "blockdata_filepath": "data/layouts/LotusLake/map.bin"
     }
   ]
 }
