@@ -5,29 +5,30 @@
   "music": "MUS_WLD_SURF",
   "region_map_section": "MAPSEC_RAINBOW_RIVER",
   "requires_flash": false,
-  "weather": "WEATHER_SUNNY_CLOUDS",
+  "weather": "WEATHER_SUNNY",
   "map_type": "MAP_TYPE_ROUTE",
   "allow_cycling": true,
   "allow_escaping": false,
   "allow_running": true,
   "show_map_name": true,
+  "floor_number": 0,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": null,
   "object_events": [],
   "warp_events": [
     {
-      "x": 12,
-      "y": 29,
+      "x": 15,
+      "y": 26,
       "elevation": 0,
       "dest_map": "MAP_GUIGNOL_GROVE",
-      "dest_warp_id": "2"
+      "dest_warp_id": "0"
     },
     {
-      "x": 13,
-      "y": 29,
+      "x": 16,
+      "y": 26,
       "elevation": 0,
       "dest_map": "MAP_GUIGNOL_GROVE",
-      "dest_warp_id": "3"
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [],

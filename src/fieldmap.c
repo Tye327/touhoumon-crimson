@@ -52,7 +52,7 @@ static bool8 IsCoordInIncomingConnectingMap(int coord, int srcMax, int destMax, 
 static inline u16 GetBorderBlockAt(int x, int y)
 {
     const struct MapLayout *mapLayout = gMapHeader.mapLayout;
-
+    //Touhou
     if (mapLayout->isFrlg)
     {
         s32 xprime;
@@ -427,17 +427,17 @@ u8 MapGridGetCollisionAt(int x, int y)
 
 u32 GetNumTilesInPrimary(struct MapLayout const *mapLayout)
 {
-    return mapLayout->isFrlg ? NUM_TILES_IN_PRIMARY_FRLG : NUM_TILES_IN_PRIMARY;
+    return NUM_TILES_IN_PRIMARY_FRLG;//Touhou return mapLayout->isFrlg ? NUM_TILES_IN_PRIMARY_FRLG : NUM_TILES_IN_PRIMARY;
 }
 
 u32 GetNumMetatilesInPrimary(struct MapLayout const *mapLayout)
 {
-    return mapLayout->isFrlg ? NUM_METATILES_IN_PRIMARY_FRLG : NUM_METATILES_IN_PRIMARY;
+    return NUM_METATILES_IN_PRIMARY_FRLG;//Touhou return mapLayout->isFrlg ? NUM_METATILES_IN_PRIMARY_FRLG : NUM_METATILES_IN_PRIMARY;
 }
 
 u32 GetNumPalsInPrimary(struct MapLayout const *mapLayout)
 {
-    return mapLayout->isFrlg ? NUM_PALS_IN_PRIMARY_FRLG : NUM_PALS_IN_PRIMARY;
+    return NUM_PALS_IN_PRIMARY_FRLG;//Touhou return mapLayout->isFrlg ? NUM_PALS_IN_PRIMARY_FRLG : NUM_PALS_IN_PRIMARY;
 }
 
 u32 MapGridGetMetatileIdAt(int x, int y)
@@ -493,7 +493,7 @@ u32 ExtractMetatileAttribute(u32 attributes, u8 attributeType, bool32 isFrlg)
     if (attributeType >= METATILE_ATTRIBUTE_COUNT) // Check for METATILE_ATTRIBUTES_ALL
         return attributes;
 
-    if (isFrlg)
+    //Touhou if (isFrlg)
         return (attributes & sMetatileAttrMasks[attributeType]) >> sMetatileAttrShifts[attributeType];
 
     return (attributes & sMetatileAttrMasksEmerald[attributeType]) >> sMetatileAttrShiftsEmerald[attributeType];
@@ -525,7 +525,7 @@ u32 GetAttributeByMetatileIdAndMapLayout(u16 metatile, u8 attributeType, bool32 
 {
     u32 attribute;
 
-    if (isFrlg)
+    //Touhou if (isFrlg)
         return GetAttributeByMetatileIdAndMapLayoutFrlg(metatile, attributeType);
 
     if (metatile < GetNumMetatilesInPrimary(gMapHeader.mapLayout))
