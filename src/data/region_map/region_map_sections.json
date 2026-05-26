@@ -1686,6 +1686,10 @@
     {
       "id": "MAPSEC_LOTUS_LAKE",
       "name": "Lotus Lake"
+    },
+    {
+      "id": "MAPSEC_SAFARI_ZONE_C",
+      "name": "Safari Zone"
     }
   ]
 }
