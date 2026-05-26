@@ -1769,3 +1769,90 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/RainbowRiver/scripts.inc"
 
 	.include "data/maps/Route3_C/scripts.inc"
+
+	.include "data/maps/SilentSwamp/scripts.inc"
+	.include "data/maps/SilentSwamp/text.inc"
+
+	.include "data/maps/LotusLake/scripts.inc"
+	.include "data/maps/LotusLake/text.inc"
+
+	.include "data/maps/SafariZone_6/scripts.inc"
+	.include "data/maps/SafariZone_6/text.inc"
+
+	.include "data/maps/SafariZone_7/scripts.inc"
+	.include "data/maps/SafariZone_7/text.inc"
+
+	.include "data/maps/SafariZone_27/scripts.inc"
+	.include "data/maps/SafariZone_27/text.inc"
+
+	.include "data/maps/SafariZone_8/scripts.inc"
+	.include "data/maps/SafariZone_8/text.inc"
+
+	.include "data/maps/SafariZone_9/scripts.inc"
+	.include "data/maps/SafariZone_9/text.inc"
+
+	.include "data/maps/SafariZone_10/scripts.inc"
+	.include "data/maps/SafariZone_10/text.inc"
+
+	.include "data/maps/SafariZone_11/scripts.inc"
+	.include "data/maps/SafariZone_11/text.inc"
+
+	.include "data/maps/SafariZone_26/scripts.inc"
+	.include "data/maps/SafariZone_26/text.inc"
+
+	.include "data/maps/SafariZone_25/scripts.inc"
+	.include "data/maps/SafariZone_25/text.inc"
+
+	.include "data/maps/SafariZone_24/scripts.inc"
+	.include "data/maps/SafariZone_24/text.inc"
+
+	.include "data/maps/SafariZone_23/scripts.inc"
+	.include "data/maps/SafariZone_23/text.inc"
+
+	.include "data/maps/SafariZone_22/scripts.inc"
+	.include "data/maps/SafariZone_22/text.inc"
+
+	.include "data/maps/SafariZone_21/scripts.inc"
+	.include "data/maps/SafariZone_21/text.inc"
+
+	.include "data/maps/SafariZone_5/scripts.inc"
+	.include "data/maps/SafariZone_5/text.inc"
+
+	.include "data/maps/SafariZone_4/scripts.inc"
+	.include "data/maps/SafariZone_4/text.inc"
+
+	.include "data/maps/SafariZone_3/scripts.inc"
+	.include "data/maps/SafariZone_3/text.inc"
+
+	.include "data/maps/SafariZone_2/scripts.inc"
+	.include "data/maps/SafariZone_2/text.inc"
+
+	.include "data/maps/SafariZone_1/scripts.inc"
+	.include "data/maps/SafariZone_1/text.inc"
+
+	.include "data/maps/SafariZone_20/scripts.inc"
+	.include "data/maps/SafariZone_20/text.inc"
+
+	.include "data/maps/SafariZone_19/scripts.inc"
+	.include "data/maps/SafariZone_19/text.inc"
+
+	.include "data/maps/SafariZone_18/scripts.inc"
+	.include "data/maps/SafariZone_18/text.inc"
+
+	.include "data/maps/SafariZone_17/scripts.inc"
+	.include "data/maps/SafariZone_17/text.inc"
+
+	.include "data/maps/SafariZone_16/scripts.inc"
+	.include "data/maps/SafariZone_16/text.inc"
+
+	.include "data/maps/SafariZone_15/scripts.inc"
+	.include "data/maps/SafariZone_15/text.inc"
+
+	.include "data/maps/SafariZone_14/scripts.inc"
+	.include "data/maps/SafariZone_14/text.inc"
+
+	.include "data/maps/SafariZone_13/scripts.inc"
+	.include "data/maps/SafariZone_13/text.inc"
+
+	.include "data/maps/SafariZone_12/scripts.inc"
+	.include "data/maps/SafariZone_12/text.inc"

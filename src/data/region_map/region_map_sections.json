@@ -1678,6 +1678,18 @@
     {
       "id": "MAPSEC_ROUTE_3C",
       "name": "Route 3"
+    },
+    {
+      "id": "MAPSEC_SILENT_SWAMP",
+      "name": "Silent Swamp"
+    },
+    {
+      "id": "MAPSEC_LOTUS_LAKE",
+      "name": "Lotus Lake"
+    },
+    {
+      "id": "MAPSEC_SAFARI_ZONE_C",
+      "name": "Safari Zone"
     }
   ]
 }

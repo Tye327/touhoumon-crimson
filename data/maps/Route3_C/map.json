@@ -18,6 +18,11 @@
       "map": "MAP_ULTRAMARINE_CITY",
       "offset": -26,
       "direction": "up"
+    },
+    {
+      "map": "MAP_SILENT_SWAMP",
+      "offset": 32,
+      "direction": "up"
     }
   ],
   "object_events": [

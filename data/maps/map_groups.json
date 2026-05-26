@@ -78,7 +78,8 @@
     "gMapGroup_Towns_C",
     "gMapGroup_Routes_C",
     "gMapGroup_Dungeons_C",
-    "gMapGroup_IndoorWondrous"
+    "gMapGroup_IndoorWondrous",
+    "gMapGroup_SafariZone"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -1177,7 +1178,9 @@
     "Route2_C",
     "TenTrail",
     "RainbowRiver",
-    "Route3_C"
+    "Route3_C",
+    "SilentSwamp",
+    "LotusLake"
   ],
   "gMapGroup_Dungeons_C": [
     "FairyForest",
@@ -1189,5 +1192,34 @@
     "PlayerRoom",
     "PlayerHome",
     "WondrousLab"
+  ],
+  "gMapGroup_SafariZone": [
+    "SafariZone_6",
+    "SafariZone_7",
+    "SafariZone_27",
+    "SafariZone_8",
+    "SafariZone_9",
+    "SafariZone_10",
+    "SafariZone_11",
+    "SafariZone_12",
+    "SafariZone_13",
+    "SafariZone_14",
+    "SafariZone_15",
+    "SafariZone_16",
+    "SafariZone_17",
+    "SafariZone_18",
+    "SafariZone_19",
+    "SafariZone_20",
+    "SafariZone_1",
+    "SafariZone_2",
+    "SafariZone_3",
+    "SafariZone_4",
+    "SafariZone_5",
+    "SafariZone_21",
+    "SafariZone_22",
+    "SafariZone_23",
+    "SafariZone_24",
+    "SafariZone_25",
+    "SafariZone_26"
   ]
 }
