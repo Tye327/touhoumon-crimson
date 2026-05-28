@@ -1186,7 +1186,13 @@
     "FairyForest",
     "CommonCave_1F",
     "CommonCave_B1F",
-    "GuignolGrove"
+    "GuignolGrove",
+    "GreatGrotto_1F",
+    "GreatGrotto_B1F",
+    "GreatGrotto_B2F",
+    "ChangingCave_1F",
+    "ChangingCave_B1F",
+    "ChangingCave_B2F"
   ],
   "gMapGroup_IndoorWondrous": [
     "PlayerRoom",

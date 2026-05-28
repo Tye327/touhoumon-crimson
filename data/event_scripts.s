@@ -1856,3 +1856,21 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/SafariZone_12/scripts.inc"
 	.include "data/maps/SafariZone_12/text.inc"
+
+	.include "data/maps/GreatGrotto_1F/scripts.inc"
+	.include "data/maps/GreatGrotto_1F/text.inc"
+
+	.include "data/maps/GreatGrotto_B2F/scripts.inc"
+	.include "data/maps/GreatGrotto_B2F/text.inc"
+
+	.include "data/maps/GreatGrotto_B1F/scripts.inc"
+	.include "data/maps/GreatGrotto_B1F/text.inc"
+
+	.include "data/maps/ChangingCave_1F/scripts.inc"
+	.include "data/maps/ChangingCave_1F/text.inc"
+
+	.include "data/maps/ChangingCave_B2F/scripts.inc"
+	.include "data/maps/ChangingCave_B2F/text.inc"
+
+	.include "data/maps/ChangingCave_B1F/scripts.inc"
+	.include "data/maps/ChangingCave_B1F/text.inc"

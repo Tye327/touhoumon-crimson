@@ -1690,6 +1690,14 @@
     {
       "id": "MAPSEC_SAFARI_ZONE_C",
       "name": "Safari Zone"
+    },
+    {
+      "id": "MAPSEC_GREAT_GROTTO",
+      "name": "Great Grotto"
+    },
+    {
+      "id": "MAPSEC_CHANGING_CAVE",
+      "name": "Changing Cave"
     }
   ]
 }

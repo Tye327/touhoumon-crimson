@@ -21,7 +21,22 @@
     }
   ],
   "object_events": [],
-  "warp_events": [],
+  "warp_events": [
+    {
+      "x": 9,
+      "y": 5,
+      "elevation": 0,
+      "dest_map": "MAP_GREAT_GROTTO_1F",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 39,
+      "y": 23,
+      "elevation": 0,
+      "dest_map": "MAP_CHANGING_CAVE_1F",
+      "dest_warp_id": "0"
+    }
+  ],
   "coord_events": [],
   "bg_events": []
 }
