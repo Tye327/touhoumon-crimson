@@ -1874,3 +1874,18 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/ChangingCave_B1F/scripts.inc"
 	.include "data/maps/ChangingCave_B1F/text.inc"
+
+	.include "data/maps/Route4_C/scripts.inc"
+	.include "data/maps/Route4_C/text.inc"
+
+	.include "data/maps/Route5_C/scripts.inc"
+	.include "data/maps/Route5_C/text.inc"
+
+	.include "data/maps/FaithFarm/scripts.inc"
+	.include "data/maps/FaithFarm/text.inc"
+
+	.include "data/maps/StrangeCity/scripts.inc"
+	.include "data/maps/StrangeCity/text.inc"
+
+	.include "data/maps/StrangeShore/scripts.inc"
+	.include "data/maps/StrangeShore/text.inc"

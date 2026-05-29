@@ -1170,7 +1170,8 @@
     "WondrousTown",
     "RecordTown",
     "ReflectingCity",
-    "UltramarineCity"
+    "UltramarineCity",
+    "StrangeCity"
   ],
   "gMapGroup_Routes_C": [
     "WondrousBeach",
@@ -1180,7 +1181,11 @@
     "RainbowRiver",
     "Route3_C",
     "SilentSwamp",
-    "LotusLake"
+    "LotusLake",
+    "Route4_C",
+    "Route5_C",
+    "FaithFarm",
+    "StrangeShore"
   ],
   "gMapGroup_Dungeons_C": [
     "FairyForest",

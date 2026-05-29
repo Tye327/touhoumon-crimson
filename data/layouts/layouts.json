@@ -10829,6 +10829,66 @@
       "secondary_tileset": "gTileset_Cave_Frlg",
       "border_filepath": "data/layouts/ChangingCave_B1F/border.bin",
       "blockdata_filepath": "data/layouts/ChangingCave_B1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE4_C",
+      "name": "Route4_C_Layout",
+      "width": 128,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralFrlg",
+      "secondary_tileset": "gTileset_Barn",
+      "border_filepath": "data/layouts/Route4_C/border.bin",
+      "blockdata_filepath": "data/layouts/Route4_C/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE5_C",
+      "name": "Route5_C_Layout",
+      "width": 24,
+      "height": 64,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralFrlg",
+      "secondary_tileset": "gTileset_CeruleanCity",
+      "border_filepath": "data/layouts/Route5_C/border.bin",
+      "blockdata_filepath": "data/layouts/Route5_C/map.bin"
+    },
+    {
+      "id": "LAYOUT_FAITH_FARM",
+      "name": "FaithFarm_Layout",
+      "width": 32,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralFrlg",
+      "secondary_tileset": "gTileset_Barn",
+      "border_filepath": "data/layouts/FaithFarm/border.bin",
+      "blockdata_filepath": "data/layouts/FaithFarm/map.bin"
+    },
+    {
+      "id": "LAYOUT_STRANGE_CITY",
+      "name": "StrangeCity_Layout",
+      "width": 48,
+      "height": 36,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralFrlg",
+      "secondary_tileset": "gTileset_VermilionCity",
+      "border_filepath": "data/layouts/StrangeCity/border.bin",
+      "blockdata_filepath": "data/layouts/StrangeCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_STRANGE_SHORE",
+      "name": "StrangeShore_Layout",
+      "width": 32,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralFrlg",
+      "secondary_tileset": "gTileset_VermilionCity",
+      "border_filepath": "data/layouts/StrangeShore/border.bin",
+      "blockdata_filepath": "data/layouts/StrangeShore/map.bin"
     }
   ]
 }
