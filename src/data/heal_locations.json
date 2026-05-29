@@ -381,6 +381,14 @@
       "y": 13,
       "respawn_map": "MAP_PLAYER_HOME",
       "respawn_npc": "LOCALID_PLAYER_HOME_MOM"
+    },
+    {
+      "id": "HEAL_LOCATION_ROUTE5_C",
+      "map": "MAP_ROUTE5_C",
+      "x": 12,
+      "y": 22,
+      "respawn_map": "MAP_ROUTE5_C",
+      "respawn_npc": "1"
     }
   ]
 }

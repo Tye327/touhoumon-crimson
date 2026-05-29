@@ -1171,7 +1171,8 @@
     "RecordTown",
     "ReflectingCity",
     "UltramarineCity",
-    "StrangeCity"
+    "StrangeCity",
+    "DreamTown"
   ],
   "gMapGroup_Routes_C": [
     "WondrousBeach",
@@ -1185,7 +1186,9 @@
     "Route4_C",
     "Route5_C",
     "FaithFarm",
-    "StrangeShore"
+    "StrangeShore",
+    "Route6_C",
+    "MasqueradeMansion_Outside"
   ],
   "gMapGroup_Dungeons_C": [
     "FairyForest",

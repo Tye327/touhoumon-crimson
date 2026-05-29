@@ -1889,3 +1889,12 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/StrangeShore/scripts.inc"
 	.include "data/maps/StrangeShore/text.inc"
+
+	.include "data/maps/Route6_C/scripts.inc"
+	.include "data/maps/Route6_C/text.inc"
+
+	.include "data/maps/MasqueradeMansion_Outside/scripts.inc"
+	.include "data/maps/MasqueradeMansion_Outside/text.inc"
+
+	.include "data/maps/DreamTown/scripts.inc"
+	.include "data/maps/DreamTown/text.inc"

@@ -10889,6 +10889,42 @@
       "secondary_tileset": "gTileset_VermilionCity",
       "border_filepath": "data/layouts/StrangeShore/border.bin",
       "blockdata_filepath": "data/layouts/StrangeShore/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE6_C",
+      "name": "Route6_C_Layout",
+      "width": 32,
+      "height": 72,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralFrlg",
+      "secondary_tileset": "gTileset_CeruleanCity",
+      "border_filepath": "data/layouts/Route6_C/border.bin",
+      "blockdata_filepath": "data/layouts/Route6_C/map.bin"
+    },
+    {
+      "id": "LAYOUT_MASQUERADE_MANSION_OUTSIDE",
+      "name": "MasqueradeMansion_Outside_Layout",
+      "width": 24,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralFrlg",
+      "secondary_tileset": "gTileset_CinnabarIsland",
+      "border_filepath": "data/layouts/MasqueradeMansion_Outside/border.bin",
+      "blockdata_filepath": "data/layouts/MasqueradeMansion_Outside/map.bin"
+    },
+    {
+      "id": "LAYOUT_DREAM_TOWN",
+      "name": "DreamTown_Layout",
+      "width": 24,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_GeneralFrlg",
+      "secondary_tileset": "gTileset_CeruleanCity",
+      "border_filepath": "data/layouts/DreamTown/border.bin",
+      "blockdata_filepath": "data/layouts/DreamTown/map.bin"
     }
   ]
 }

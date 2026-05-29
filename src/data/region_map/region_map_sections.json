@@ -1718,6 +1718,18 @@
     {
       "id": "MAPSEC_STRANGE_SHORE",
       "name": "Strange Shore"
+    },
+    {
+      "id": "MAPSEC_ROUTE_6C",
+      "name": "Route 6"
+    },
+    {
+      "id": "MAPSEC_MASQUERADE_MANSION",
+      "name": "Masquerade Mansion"
+    },
+    {
+      "id": "MAPSEC_DREAM_TOWN",
+      "name": "Dream Town"
     }
   ]
 }
