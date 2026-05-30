@@ -1893,8 +1893,8 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/Route6_C/scripts.inc"
 	.include "data/maps/Route6_C/text.inc"
 
-	.include "data/maps/MasqueradeMansion_Outside/scripts.inc"
-	.include "data/maps/MasqueradeMansion_Outside/text.inc"
+	.include "data/maps/MasqueradeManor_Outside/scripts.inc"
+	.include "data/maps/MasqueradeManor_Outside/text.inc"
 
 	.include "data/maps/DreamTown/scripts.inc"
 	.include "data/maps/DreamTown/text.inc"
