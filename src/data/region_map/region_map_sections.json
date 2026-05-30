@@ -1690,6 +1690,46 @@
     {
       "id": "MAPSEC_SAFARI_ZONE_C",
       "name": "Safari Zone"
+    },
+    {
+      "id": "MAPSEC_GREAT_GROTTO",
+      "name": "Great Grotto"
+    },
+    {
+      "id": "MAPSEC_CHANGING_CAVE",
+      "name": "Changing Cave"
+    },
+    {
+      "id": "MAPSEC_ROUTE_4C",
+      "name": "Route 4"
+    },
+    {
+      "id": "MAPSEC_ROUTE_5C",
+      "name": "Route 5"
+    },
+    {
+      "id": "MAPSEC_FAITH_FARM",
+      "name": "Faith Farm"
+    },
+    {
+      "id": "MAPSEC_STRANGE_CITY",
+      "name": "Strange City"
+    },
+    {
+      "id": "MAPSEC_STRANGE_SHORE",
+      "name": "Strange Shore"
+    },
+    {
+      "id": "MAPSEC_ROUTE_6C",
+      "name": "Route 6"
+    },
+    {
+      "id": "MAPSEC_MASQUERADE_MANOR",
+      "name": "Masquerade Manor"
+    },
+    {
+      "id": "MAPSEC_DREAM_TOWN",
+      "name": "Dream Town"
     }
   ]
 }

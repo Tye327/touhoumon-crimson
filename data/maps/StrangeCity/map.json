@@ -1,0 +1,32 @@
+{
+  "id": "MAP_STRANGE_CITY",
+  "name": "StrangeCity",
+  "layout": "LAYOUT_STRANGE_CITY",
+  "music": "MUS_ZGS_VERMILLION",
+  "region_map_section": "MAPSEC_STRANGE_CITY",
+  "requires_flash": false,
+  "weather": "WEATHER_SUNNY",
+  "map_type": "MAP_TYPE_CITY",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "floor_number": 0,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_ROUTE4_C",
+      "offset": 8,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_STRANGE_SHORE",
+      "offset": 2,
+      "direction": "down"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}

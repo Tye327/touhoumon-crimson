@@ -1858,3 +1858,45 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/SafariZone_12/scripts.inc"
 	.include "data/maps/SafariZone_12/text.inc"
+
+	.include "data/maps/GreatGrotto_1F/scripts.inc"
+	.include "data/maps/GreatGrotto_1F/text.inc"
+
+	.include "data/maps/GreatGrotto_B2F/scripts.inc"
+	.include "data/maps/GreatGrotto_B2F/text.inc"
+
+	.include "data/maps/GreatGrotto_B1F/scripts.inc"
+	.include "data/maps/GreatGrotto_B1F/text.inc"
+
+	.include "data/maps/ChangingCave_1F/scripts.inc"
+	.include "data/maps/ChangingCave_1F/text.inc"
+
+	.include "data/maps/ChangingCave_B2F/scripts.inc"
+	.include "data/maps/ChangingCave_B2F/text.inc"
+
+	.include "data/maps/ChangingCave_B1F/scripts.inc"
+	.include "data/maps/ChangingCave_B1F/text.inc"
+
+	.include "data/maps/Route4_C/scripts.inc"
+	.include "data/maps/Route4_C/text.inc"
+
+	.include "data/maps/Route5_C/scripts.inc"
+	.include "data/maps/Route5_C/text.inc"
+
+	.include "data/maps/FaithFarm/scripts.inc"
+	.include "data/maps/FaithFarm/text.inc"
+
+	.include "data/maps/StrangeCity/scripts.inc"
+	.include "data/maps/StrangeCity/text.inc"
+
+	.include "data/maps/StrangeShore/scripts.inc"
+	.include "data/maps/StrangeShore/text.inc"
+
+	.include "data/maps/Route6_C/scripts.inc"
+	.include "data/maps/Route6_C/text.inc"
+
+	.include "data/maps/MasqueradeManor_Outside/scripts.inc"
+	.include "data/maps/MasqueradeManor_Outside/text.inc"
+
+	.include "data/maps/DreamTown/scripts.inc"
+	.include "data/maps/DreamTown/text.inc"

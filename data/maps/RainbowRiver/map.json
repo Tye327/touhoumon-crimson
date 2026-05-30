@@ -29,6 +29,13 @@
       "elevation": 0,
       "dest_map": "MAP_GUIGNOL_GROVE",
       "dest_warp_id": "1"
+    },
+    {
+      "x": 67,
+      "y": 23,
+      "elevation": 0,
+      "dest_map": "MAP_GREAT_GROTTO_1F",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [],

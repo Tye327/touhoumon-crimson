@@ -1170,7 +1170,9 @@
     "WondrousTown",
     "RecordTown",
     "ReflectingCity",
-    "UltramarineCity"
+    "UltramarineCity",
+    "StrangeCity",
+    "DreamTown"
   ],
   "gMapGroup_Routes_C": [
     "WondrousBeach",
@@ -1180,13 +1182,25 @@
     "RainbowRiver",
     "Route3_C",
     "SilentSwamp",
-    "LotusLake"
+    "LotusLake",
+    "Route4_C",
+    "Route5_C",
+    "FaithFarm",
+    "StrangeShore",
+    "Route6_C",
+    "MasqueradeManor_Outside"
   ],
   "gMapGroup_Dungeons_C": [
     "FairyForest",
     "CommonCave_1F",
     "CommonCave_B1F",
-    "GuignolGrove"
+    "GuignolGrove",
+    "GreatGrotto_1F",
+    "GreatGrotto_B1F",
+    "GreatGrotto_B2F",
+    "ChangingCave_1F",
+    "ChangingCave_B1F",
+    "ChangingCave_B2F"
   ],
   "gMapGroup_IndoorWondrous": [
     "PlayerRoom",

@@ -23,14 +23,19 @@
       "map": "MAP_SILENT_SWAMP",
       "offset": 32,
       "direction": "up"
+    },
+    {
+      "map": "MAP_ROUTE4_C",
+      "offset": 0,
+      "direction": "right"
     }
   ],
   "object_events": [
     {
       "type": "object",
       "graphics_id": "OBJ_EVENT_GFX_CUTTABLE_TREE",
-      "x": 122,
-      "y": 12,
+      "x": 97,
+      "y": 9,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_NONE",
       "movement_range_x": 0,
@@ -43,8 +48,8 @@
     {
       "type": "object",
       "graphics_id": "OBJ_EVENT_GFX_CUTTABLE_TREE",
-      "x": 122,
-      "y": 13,
+      "x": 98,
+      "y": 11,
       "elevation": 0,
       "movement_type": "MOVEMENT_TYPE_NONE",
       "movement_range_x": 0,
