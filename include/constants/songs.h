@@ -282,7 +282,6 @@
 #define END_SE                      SE_WLD_FAINT
 
 // Music
-#define START_MUS                   350
 #define MUS_LITTLEROOT_TEST         350 // MUS_TETSUJI          // Unused, likely a test track.
 #define MUS_GSC_ROUTE38             351 // MUS_FIELD13          // Unused, likely a test track.
 #define MUS_CAUGHT                  352 // MUS_KACHI22
@@ -615,57 +614,57 @@
 
 // These PH_* constants are phoneme sounds used by the "bard" NPC (see src/bard_music.c and src/mauville_old_man.c).
 // Each comes in a triplet of PH_*_BLEND, PH_*_HELD, and PH_*_SOLO, and the name of each triplet incorporates the English phonetic sound it represents.
-#define PH_TRAP_BLEND               671
-#define PH_TRAP_HELD                672
-#define PH_TRAP_SOLO                673
-#define PH_FACE_BLEND               674
-#define PH_FACE_HELD                675
-#define PH_FACE_SOLO                676
-#define PH_CLOTH_BLEND              677
-#define PH_CLOTH_HELD               678
-#define PH_CLOTH_SOLO               679
-#define PH_DRESS_BLEND              680
-#define PH_DRESS_HELD               681
-#define PH_DRESS_SOLO               682
-#define PH_FLEECE_BLEND             683
-#define PH_FLEECE_HELD              684
-#define PH_FLEECE_SOLO              685
-#define PH_KIT_BLEND                686
-#define PH_KIT_HELD                 687
-#define PH_KIT_SOLO                 688
-#define PH_PRICE_BLEND              689
-#define PH_PRICE_HELD               690
-#define PH_PRICE_SOLO               691
-#define PH_LOT_BLEND                692
-#define PH_LOT_HELD                 693
-#define PH_LOT_SOLO                 694
-#define PH_GOAT_BLEND               695
-#define PH_GOAT_HELD                696
-#define PH_GOAT_SOLO                697
-#define PH_THOUGHT_BLEND            698
-#define PH_THOUGHT_HELD             699
-#define PH_THOUGHT_SOLO             700
-#define PH_CHOICE_BLEND             701
-#define PH_CHOICE_HELD              702
-#define PH_CHOICE_SOLO              703
-#define PH_MOUTH_BLEND              704
-#define PH_MOUTH_HELD               705
-#define PH_MOUTH_SOLO               706
-#define PH_FOOT_BLEND               707
-#define PH_FOOT_HELD                708
-#define PH_FOOT_SOLO                709
-#define PH_GOOSE_BLEND              710
-#define PH_GOOSE_HELD               711
-#define PH_GOOSE_SOLO               712
-#define PH_STRUT_BLEND              713
-#define PH_STRUT_HELD               714
-#define PH_STRUT_SOLO               715
-#define PH_CURE_BLEND               716
-#define PH_CURE_HELD                717
-#define PH_CURE_SOLO                718
-#define PH_NURSE_BLEND              719
-#define PH_NURSE_HELD               720
-#define PH_NURSE_SOLO               721
+#define PH_TRAP_BLEND               (END_MUS + 1)
+#define PH_TRAP_HELD                (PH_TRAP_BLEND + 1)
+#define PH_TRAP_SOLO                (PH_TRAP_HELD + 1)
+#define PH_FACE_BLEND               (PH_TRAP_SOLO + 1)
+#define PH_FACE_HELD                (PH_FACE_BLEND + 1)
+#define PH_FACE_SOLO                (PH_FACE_HELD + 1)
+#define PH_CLOTH_BLEND              (PH_FACE_SOLO + 1)
+#define PH_CLOTH_HELD               (PH_CLOTH_BLEND + 1)
+#define PH_CLOTH_SOLO               (PH_CLOTH_HELD + 1)
+#define PH_DRESS_BLEND              (PH_CLOTH_SOLO + 1)
+#define PH_DRESS_HELD               (PH_DRESS_BLEND + 1)
+#define PH_DRESS_SOLO               (PH_DRESS_HELD + 1)
+#define PH_FLEECE_BLEND             (PH_DRESS_SOLO + 1)
+#define PH_FLEECE_HELD              (PH_FLEECE_BLEND + 1)
+#define PH_FLEECE_SOLO              (PH_FLEECE_HELD + 1)
+#define PH_KIT_BLEND                (PH_FLEECE_SOLO + 1)
+#define PH_KIT_HELD                 (PH_KIT_BLEND + 1)
+#define PH_KIT_SOLO                 (PH_KIT_HELD + 1)
+#define PH_PRICE_BLEND              (PH_KIT_SOLO + 1)
+#define PH_PRICE_HELD               (PH_PRICE_BLEND + 1)
+#define PH_PRICE_SOLO               (PH_PRICE_HELD + 1)
+#define PH_LOT_BLEND                (PH_PRICE_SOLO + 1)
+#define PH_LOT_HELD                 (PH_LOT_BLEND + 1)
+#define PH_LOT_SOLO                 (PH_LOT_HELD + 1)
+#define PH_GOAT_BLEND               (PH_LOT_SOLO + 1)
+#define PH_GOAT_HELD                (PH_GOAT_BLEND + 1)
+#define PH_GOAT_SOLO                (PH_GOAT_HELD + 1)
+#define PH_THOUGHT_BLEND            (PH_GOAT_SOLO + 1)
+#define PH_THOUGHT_HELD             (PH_THOUGHT_BLEND + 1)
+#define PH_THOUGHT_SOLO             (PH_THOUGHT_HELD + 1)
+#define PH_CHOICE_BLEND             (PH_THOUGHT_SOLO + 1)
+#define PH_CHOICE_HELD              (PH_CHOICE_BLEND + 1)
+#define PH_CHOICE_SOLO              (PH_CHOICE_HELD + 1)
+#define PH_MOUTH_BLEND              (PH_CHOICE_SOLO + 1)
+#define PH_MOUTH_HELD               (PH_MOUTH_BLEND + 1)
+#define PH_MOUTH_SOLO               (PH_MOUTH_HELD + 1)
+#define PH_FOOT_BLEND               (PH_MOUTH_SOLO + 1)
+#define PH_FOOT_HELD                (PH_FOOT_BLEND + 1)
+#define PH_FOOT_SOLO                (PH_FOOT_HELD + 1)
+#define PH_GOOSE_BLEND              (PH_FOOT_SOLO + 1)
+#define PH_GOOSE_HELD               (PH_GOOSE_BLEND + 1)
+#define PH_GOOSE_SOLO               (PH_GOOSE_HELD + 1)
+#define PH_STRUT_BLEND              (PH_GOOSE_SOLO + 1)
+#define PH_STRUT_HELD               (PH_STRUT_BLEND + 1)
+#define PH_STRUT_SOLO               (PH_STRUT_HELD + 1)
+#define PH_CURE_BLEND               (PH_STRUT_SOLO + 1)
+#define PH_CURE_HELD                (PH_CURE_BLEND + 1)
+#define PH_CURE_SOLO                (PH_CURE_HELD + 1)
+#define PH_NURSE_BLEND              (PH_CURE_SOLO + 1)
+#define PH_NURSE_HELD               (PH_NURSE_BLEND + 1)
+#define PH_NURSE_SOLO               (PH_NURSE_HELD + 1)
 
 #define MUS_ROUTE118                0x7FFF  // Map is split into 2 music sections. controlled by GetCurrLocationDefaultMusic().
 
