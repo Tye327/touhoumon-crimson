@@ -1,0 +1,29 @@
+{
+  "id": "MAP_MASQUERADE_MANOR_B1F",
+  "name": "MasqueradeManor_B1F",
+  "layout": "LAYOUT_MASQUERADE_MANOR_B1F",
+  "music": "MUS_ZGS_SCARLET_DEVIL_MANSION",
+  "region_map_section": "MAPSEC_MASQUERADE_MANOR",
+  "requires_flash": true,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_UNDERGROUND",
+  "allow_cycling": true,
+  "allow_escaping": true,
+  "allow_running": true,
+  "show_map_name": true,
+  "floor_number": 0,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": null,
+  "object_events": [],
+  "warp_events": [
+    {
+      "x": 20,
+      "y": 20,
+      "elevation": 0,
+      "dest_map": "MAP_MASQUERADE_MANOR_1F",
+      "dest_warp_id": "10"
+    }
+  ],
+  "coord_events": [],
+  "bg_events": []
+}

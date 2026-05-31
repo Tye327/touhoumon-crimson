@@ -1900,3 +1900,12 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/DreamTown/scripts.inc"
 	.include "data/maps/DreamTown/text.inc"
+
+	.include "data/maps/MasqueradeManor_1F/scripts.inc"
+	.include "data/maps/MasqueradeManor_1F/text.inc"
+
+	.include "data/maps/MasqueradeManor_2F/scripts.inc"
+	.include "data/maps/MasqueradeManor_2F/text.inc"
+
+	.include "data/maps/MasqueradeManor_B1F/scripts.inc"
+	.include "data/maps/MasqueradeManor_B1F/text.inc"

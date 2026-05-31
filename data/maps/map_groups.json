@@ -1200,7 +1200,10 @@
     "GreatGrotto_B2F",
     "ChangingCave_1F",
     "ChangingCave_B1F",
-    "ChangingCave_B2F"
+    "ChangingCave_B2F",
+    "MasqueradeManor_1F",
+    "MasqueradeManor_2F",
+    "MasqueradeManor_B1F"
   ],
   "gMapGroup_IndoorWondrous": [
     "PlayerRoom",

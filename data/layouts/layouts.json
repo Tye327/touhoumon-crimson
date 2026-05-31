@@ -10925,6 +10925,42 @@
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/DreamTown/border.bin",
       "blockdata_filepath": "data/layouts/DreamTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_MASQUERADE_MANOR_1F",
+      "name": "MasqueradeManor_1F_Layout",
+      "width": 71,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingFrlg",
+      "secondary_tileset": "gTileset_ScarletMansion",
+      "border_filepath": "data/layouts/MasqueradeManor_1F/border.bin",
+      "blockdata_filepath": "data/layouts/MasqueradeManor_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_MASQUERADE_MANOR_2F",
+      "name": "MasqueradeManor_2F_Layout",
+      "width": 71,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingFrlg",
+      "secondary_tileset": "gTileset_ScarletMansion",
+      "border_filepath": "data/layouts/MasqueradeManor_2F/border.bin",
+      "blockdata_filepath": "data/layouts/MasqueradeManor_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_MASQUERADE_MANOR_B1F",
+      "name": "MasqueradeManor_B1F_Layout",
+      "width": 24,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_BuildingFrlg",
+      "secondary_tileset": "gTileset_ScarletMansion",
+      "border_filepath": "data/layouts/MasqueradeManor_B1F/border.bin",
+      "blockdata_filepath": "data/layouts/MasqueradeManor_B1F/map.bin"
     }
   ]
 }
