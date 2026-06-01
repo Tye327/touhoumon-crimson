@@ -10213,7 +10213,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_PalletTown",
       "border_filepath": "data/layouts/WondrousTown/border.bin",
       "blockdata_filepath": "data/layouts/WondrousTown/map.bin"
@@ -10261,7 +10261,7 @@
       "height": 40,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_PalletTown",
       "border_filepath": "data/layouts/WondrousBeach/border.bin",
       "blockdata_filepath": "data/layouts/WondrousBeach/map.bin"
@@ -10273,7 +10273,7 @@
       "height": 24,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_PalletTown",
       "border_filepath": "data/layouts/Route1_C/border.bin",
       "blockdata_filepath": "data/layouts/Route1_C/map.bin"
@@ -10961,6 +10961,18 @@
       "secondary_tileset": "gTileset_ScarletMansion",
       "border_filepath": "data/layouts/MasqueradeManor_B1F/border.bin",
       "blockdata_filepath": "data/layouts/MasqueradeManor_B1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_TABOO_THICKET",
+      "name": "TabooThicket_Layout",
+      "width": 32,
+      "height": 96,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_CeruleanCity",
+      "border_filepath": "data/layouts/TabooThicket/border.bin",
+      "blockdata_filepath": "data/layouts/TabooThicket/map.bin"
     }
   ]
 }

@@ -1203,7 +1203,8 @@
     "ChangingCave_B2F",
     "MasqueradeManor_1F",
     "MasqueradeManor_2F",
-    "MasqueradeManor_B1F"
+    "MasqueradeManor_B1F",
+    "TabooThicket"
   ],
   "gMapGroup_IndoorWondrous": [
     "PlayerRoom",

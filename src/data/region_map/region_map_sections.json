@@ -1730,6 +1730,10 @@
     {
       "id": "MAPSEC_DREAM_TOWN",
       "name": "Dream Town"
+    },
+    {
+      "id": "MAPSEC_TABOO_THICKET",
+      "name": "Taboo Thicket"
     }
   ]
 }

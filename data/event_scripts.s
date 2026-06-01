@@ -1909,3 +1909,6 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/MasqueradeManor_B1F/scripts.inc"
 	.include "data/maps/MasqueradeManor_B1F/text.inc"
+
+	.include "data/maps/TabooThicket/scripts.inc"
+	.include "data/maps/TabooThicket/text.inc"
