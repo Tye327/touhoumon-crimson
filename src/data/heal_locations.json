@@ -361,7 +361,7 @@
     {
       "id": "HEAL_LOCATION_RECORD_TOWN",
       "map": "MAP_RECORD_TOWN",
-      "x": 19,
+      "x": 23,
       "y": 10,
       "respawn_map": "MAP_PLAYER_HOME",
       "respawn_npc": "LOCALID_PLAYER_HOME_MOM"
