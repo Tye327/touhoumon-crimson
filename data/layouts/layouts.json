@@ -10881,7 +10881,7 @@
     {
       "id": "LAYOUT_STRANGE_SHORE",
       "name": "StrangeShore_Layout",
-      "width": 32,
+      "width": 64,
       "height": 32,
       "border_width": 2,
       "border_height": 2,
@@ -10917,7 +10917,7 @@
     {
       "id": "LAYOUT_DREAM_TOWN",
       "name": "DreamTown_Layout",
-      "width": 24,
+      "width": 32,
       "height": 24,
       "border_width": 2,
       "border_height": 2,
@@ -10973,6 +10973,18 @@
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/TabooThicket/border.bin",
       "blockdata_filepath": "data/layouts/TabooThicket/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE7_C",
+      "name": "Route7_C_Layout",
+      "width": 24,
+      "height": 72,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_CeruleanCity",
+      "border_filepath": "data/layouts/Route7_C/border.bin",
+      "blockdata_filepath": "data/layouts/Route7_C/map.bin"
     }
   ]
 }

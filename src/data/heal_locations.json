@@ -385,7 +385,7 @@
     {
       "id": "HEAL_LOCATION_DREAM_TOWN",
       "map": "MAP_DREAM_TOWN",
-      "x": 5,
+      "x": 13,
       "y": 16,
       "respawn_map": "MAP_PLAYER_HOME",
       "respawn_npc": "LOCALID_PLAYER_HOME_MOM"

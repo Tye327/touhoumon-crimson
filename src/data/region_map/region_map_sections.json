@@ -1734,6 +1734,10 @@
     {
       "id": "MAPSEC_TABOO_THICKET",
       "name": "Taboo Thicket"
+    },
+    {
+      "id": "MAPSEC_ROUTE_7C",
+      "name": "Route 7"
     }
   ]
 }

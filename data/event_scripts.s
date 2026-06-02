@@ -1912,3 +1912,6 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/TabooThicket/scripts.inc"
 	.include "data/maps/TabooThicket/text.inc"
+
+	.include "data/maps/Route7_C/scripts.inc"
+	.include "data/maps/Route7_C/text.inc"

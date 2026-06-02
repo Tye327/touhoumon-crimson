@@ -1,9 +1,9 @@
 {
-  "id": "MAP_STRANGE_SHORE",
-  "name": "StrangeShore",
-  "layout": "LAYOUT_STRANGE_SHORE",
-  "music": "MUS_ZGS_ROUTE24",
-  "region_map_section": "MAPSEC_STRANGE_SHORE",
+  "id": "MAP_ROUTE7_C",
+  "name": "Route7_C",
+  "layout": "LAYOUT_ROUTE7_C",
+  "music": "MUS_ZGS_ROUTE11",
+  "region_map_section": "MAPSEC_ROUTE_7C",
   "requires_flash": false,
   "weather": "WEATHER_SUNNY",
   "map_type": "MAP_TYPE_ROUTE",
@@ -13,13 +13,7 @@
   "show_map_name": true,
   "floor_number": 0,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": [
-    {
-      "map": "MAP_STRANGE_CITY",
-      "offset": 30,
-      "direction": "up"
-    }
-  ],
+  "connections": null,
   "object_events": [],
   "warp_events": [],
   "coord_events": [],
