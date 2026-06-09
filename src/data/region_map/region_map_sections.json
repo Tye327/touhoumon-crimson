@@ -1738,6 +1738,26 @@
     {
       "id": "MAPSEC_ROUTE_7C",
       "name": "Route 7"
+    },
+    {
+      "id": "MAPSEC_ROUTE_8C",
+      "name": "Route 8"
+    },
+    {
+      "id": "MAPSEC_BIZARRE_BEACH",
+      "name": "Bizzare Beach"
+    },
+    {
+      "id": "MAPSEC_SHINING_CITY",
+      "name": "Shining City"
+    },
+    {
+      "id": "MAPSEC_ROMANTIC_PORT",
+      "name": "Romantic Port"
+    },
+    {
+      "id": "MAPSEC_ROUTE_9C",
+      "name": "Route 9"
     }
   ]
 }

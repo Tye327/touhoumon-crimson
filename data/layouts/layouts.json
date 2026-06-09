@@ -10454,7 +10454,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_RG_General",
-      "secondary_tileset": "gTileset_Snow2",
+      "secondary_tileset": "gTileset_Fallarbor",
       "border_filepath": "data/layouts/SafariZone_7/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_7/map.bin"
     },
@@ -10466,7 +10466,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_RG_General",
-      "secondary_tileset": "gTileset_RG_SeviiIslands123",
+      "secondary_tileset": "gTileset_Fallarbor",
       "border_filepath": "data/layouts/SafariZone_27/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_27/map.bin"
     },
@@ -10886,7 +10886,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_RG_General",
-      "secondary_tileset": "gTileset_VermilionCity",
+      "secondary_tileset": "gTileset_Slateport",
       "border_filepath": "data/layouts/StrangeShore/border.bin",
       "blockdata_filepath": "data/layouts/StrangeShore/map.bin"
     },
@@ -10985,6 +10985,66 @@
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/Route7_C/border.bin",
       "blockdata_filepath": "data/layouts/Route7_C/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE8_C",
+      "name": "Route8_C_Layout",
+      "width": 24,
+      "height": 72,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Slateport",
+      "border_filepath": "data/layouts/Route8_C/border.bin",
+      "blockdata_filepath": "data/layouts/Route8_C/map.bin"
+    },
+    {
+      "id": "LAYOUT_BIZARRE_BEACH",
+      "name": "BizarreBeach_Layout",
+      "width": 24,
+      "height": 72,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Slateport",
+      "border_filepath": "data/layouts/BizarreBeach/border.bin",
+      "blockdata_filepath": "data/layouts/BizarreBeach/map.bin"
+    },
+    {
+      "id": "LAYOUT_SHINING_CITY",
+      "name": "ShiningCity_Layout",
+      "width": 48,
+      "height": 38,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_CeladonCity",
+      "border_filepath": "data/layouts/ShiningCity/border.bin",
+      "blockdata_filepath": "data/layouts/ShiningCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROMANTIC_PORT",
+      "name": "RomanticPort_Layout",
+      "width": 32,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Slateport",
+      "border_filepath": "data/layouts/RomanticPort/border.bin",
+      "blockdata_filepath": "data/layouts/RomanticPort/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE9_C",
+      "name": "Route9_C_Layout",
+      "width": 64,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_CeladonCity",
+      "border_filepath": "data/layouts/Route9_C/border.bin",
+      "blockdata_filepath": "data/layouts/Route9_C/map.bin"
     }
   ]
 }

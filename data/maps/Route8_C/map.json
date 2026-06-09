@@ -1,0 +1,37 @@
+{
+  "id": "MAP_ROUTE8_C",
+  "name": "Route8_C",
+  "layout": "LAYOUT_ROUTE8_C",
+  "music": "MUS_ZGS_ROUTE11",
+  "region_map_section": "MAPSEC_ROUTE_8C",
+  "requires_flash": false,
+  "weather": "WEATHER_SUNNY",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "floor_number": 0,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_ROUTE7_C",
+      "offset": 0,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_BIZARRE_BEACH",
+      "offset": 0,
+      "direction": "right"
+    },
+    {
+      "map": "MAP_SHINING_CITY",
+      "offset": 22,
+      "direction": "left"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}

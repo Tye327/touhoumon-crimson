@@ -2,7 +2,7 @@
   "id": "MAP_MASQUERADE_MANOR_OUTSIDE",
   "name": "MasqueradeManor_Outside",
   "layout": "LAYOUT_MASQUERADE_MANOR_OUTSIDE",
-  "music": "MUS_ZGS_POKE_TOWER",
+  "music": "MUS_ZGS_PARADISE_DEEP_MOUNTAIN",
   "region_map_section": "MAPSEC_MASQUERADE_MANOR",
   "requires_flash": false,
   "weather": "WEATHER_SHADE",

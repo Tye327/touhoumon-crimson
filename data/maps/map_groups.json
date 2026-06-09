@@ -1172,7 +1172,9 @@
     "ReflectingCity",
     "UltramarineCity",
     "StrangeCity",
-    "DreamTown"
+    "DreamTown",
+    "ShiningCity",
+    "RomanticPort"
   ],
   "gMapGroup_Routes_C": [
     "WondrousBeach",
@@ -1189,7 +1191,10 @@
     "StrangeShore",
     "Route6_C",
     "MasqueradeManor_Outside",
-    "Route7_C"
+    "Route7_C",
+    "Route8_C",
+    "BizarreBeach",
+    "Route9_C"
   ],
   "gMapGroup_Dungeons_C": [
     "FairyForest",

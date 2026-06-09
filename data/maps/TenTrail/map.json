@@ -2,7 +2,7 @@
   "id": "MAP_TEN_TRAIL",
   "name": "TenTrail",
   "layout": "LAYOUT_TEN_TRAIL",
-  "music": "MUS_ZGS_ROUTE3",
+  "music": "MUS_ZGS_ROUTE1",
   "region_map_section": "MAPSEC_TEN_TRAIL",
   "requires_flash": false,
   "weather": "WEATHER_SUNNY",

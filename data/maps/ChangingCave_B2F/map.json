@@ -2,7 +2,7 @@
   "id": "MAP_CHANGING_CAVE_B2F",
   "name": "ChangingCave_B2F",
   "layout": "LAYOUT_CHANGING_CAVE_B2F",
-  "music": "MUS_ZGS_MT_MOON",
+  "music": "MUS_ZGS_ENCOUNTER_DEOXYS",
   "region_map_section": "MAPSEC_CHANGING_CAVE",
   "requires_flash": true,
   "weather": "WEATHER_NONE",

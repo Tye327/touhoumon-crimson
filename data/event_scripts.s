@@ -1915,3 +1915,18 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/Route7_C/scripts.inc"
 	.include "data/maps/Route7_C/text.inc"
+
+	.include "data/maps/Route8_C/scripts.inc"
+	.include "data/maps/Route8_C/text.inc"
+
+	.include "data/maps/BizarreBeach/scripts.inc"
+	.include "data/maps/BizarreBeach/text.inc"
+
+	.include "data/maps/ShiningCity/scripts.inc"
+	.include "data/maps/ShiningCity/text.inc"
+
+	.include "data/maps/RomanticPort/scripts.inc"
+	.include "data/maps/RomanticPort/text.inc"
+
+	.include "data/maps/Route9_C/scripts.inc"
+	.include "data/maps/Route9_C/text.inc"

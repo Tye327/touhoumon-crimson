@@ -1,0 +1,27 @@
+{
+  "id": "MAP_ROUTE9_C",
+  "name": "Route9_C",
+  "layout": "LAYOUT_ROUTE9_C",
+  "music": "MUS_ZGS_ROUTE11",
+  "region_map_section": "MAPSEC_ROUTE_9C",
+  "requires_flash": false,
+  "weather": "WEATHER_SUNNY",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "floor_number": 0,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_SHINING_CITY",
+      "offset": -4,
+      "direction": "right"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}

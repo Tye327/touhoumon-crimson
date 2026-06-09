@@ -496,105 +496,105 @@
 //Touhou Music
 #define MUS_TPPE_VS_WILD            559
 #define MUS_WLD_GAME_CORNER         560
-#define MUS_WLD_SURF                561
-#define MUS_WLD_VS_WILD             562
-#define MUS_ZGS_AGTLP               563
-#define MUS_ZGS_BAMBOO_FOREST       564
-#define MUS_ZGS_BELL_OF_AVICI       565  // MUS_RG_KINOMIKUI
-#define MUS_ZGS_CAUGHT              566  // MUS_RG_GET_YASEI
-#define MUS_ZGS_CAUGHT_INTRO        567  // MUS_RG_FAN6
-#define MUS_ZGS_CELADON             568  // MUS_RG_TAMAMUSI
-#define MUS_ZGS_CINNABAR            569  // MUS_RG_GUREN
-#define MUS_ZGS_CITY_OF_FLOWER      570  // MUS_RG_JUMP
-#define MUS_ZGS_CREDITS             571  // MUS_RG_ENDING
-#define MUS_ZGS_CYCLING             572  // MUS_RG_CYCLING
-#define MUS_ZGS_DARK_BLOW_HOLE      573
-#define MUS_ZGS_EIKI_ISLAND         574
-#define MUS_ZGS_ENCOUNTER_ALICE     575
-#define MUS_ZGS_ENCOUNTER_BOY       576  // MUS_RG_SHOUNEN
-#define MUS_ZGS_ENCOUNTER_DEOXYS    577 // MUS_RG_DEOEYE
-#define MUS_ZGS_ENCOUNTER_FAIRY     578
-#define MUS_ZGS_ENCOUNTER_GIRL      579  // MUS_RG_SHOUJO
-#define MUS_ZGS_ENCOUNTER_GYM_LEADER 580 // MUS_RG_EXEYE
-#define MUS_ZGS_ENCOUNTER_MEILING   581
-#define MUS_ZGS_ENCOUNTER_NITORI    582
-#define MUS_ZGS_ENCOUNTER_PRISMRIVER 583
-#define MUS_ZGS_ENCOUNTER_RIVAL     584  // MUS_RG_RIVAL1
-#define MUS_ZGS_ENCOUNTER_ROCKET    585  // MUS_RG_ROCKET
-#define MUS_ZGS_ENCOUNTER_TENGU     586
-#define MUS_ZGS_END_OF_DAYLIGHT     587  // MUS_RG_UNION
-#define MUS_ZGS_END_OF_SPRING       588
-#define MUS_ZGS_EVOLUTION           589
-#define MUS_ZGS_EVOLUTION_INTRO     590
-#define MUS_ZGS_EVOLVED             591
-#define MUS_ZGS_FOLLOW_ME           592  // MUS_RG_ANNAI
-#define MUS_ZGS_FUCHSIA             593  // MUS_RG_HANADA
-#define MUS_ZGS_GAME_CORNER         594  // MUS_RG_SLOT
-#define MUS_ZGS_GYM                 595  // MUS_RG_GYM
-#define MUS_ZGS_HALL_OF_FAME        596  // MUS_RG_DENDOU
-#define MUS_ZGS_HEAL                597
-#define MUS_ZGS_INTRO_FIGHT         598  // MUS_RG_DEMO
-#define MUS_ZGS_JIGGLYPUFF          599  // MUS_RG_PURIN
-#define MUS_ZGS_LAVENDER            600  // MUS_RG_SHION
-#define MUS_ZGS_MARISA_SCENE        601
-#define MUS_ZGS_MEGAMARI_OPENING    602
-#define MUS_ZGS_MEGAMARI_OPENING_ALT 603
-#define MUS_ZGS_MORIYA_SHRINE       604
-#define MUS_ZGS_MOVE_DELETED        605
-#define MUS_ZGS_MT_MOON             606  // MUS_RG_OTSUKIMI
-#define MUS_ZGS_OAK                 607  // MUS_RG_OHKIDO
-#define MUS_ZGS_OAK_LAB             608  // MUS_RG_KENKYU
-#define MUS_ZGS_PALLET              609  // MUS_RG_MASARA
-#define MUS_ZGS_PARADISE_DEEP_MOUNTAIN 610
-#define MUS_ZGS_PATCHOULI_LIBRARY   611
-#define MUS_ZGS_PEWTER              612  // MUS_RG_NIBI
-#define MUS_ZGS_POKE_CENTER         613  // MUS_RG_POKECEN
-#define MUS_ZGS_POKE_FLUTE          614  // MUS_RG_POKEFUE
-#define MUS_ZGS_POKE_MANSION        615  // MUS_RG_POKEYASHI
-#define MUS_ZGS_POKE_TOWER          616  // MUS_RG_P_TOWER
-#define MUS_ZGS_PRISMRIVER_MANSION  617
-#define MUS_ZGS_ROCKET_HIDEOUT      618  // MUS_RG_AJITO
-#define MUS_ZGS_ROUTE1              619  // MUS_RG_LOAD01
-#define MUS_ZGS_ROUTE11             620  // MUS_RG_LOAD03
-#define MUS_ZGS_ROUTE24             621  // MUS_RG_OPENING
-#define MUS_ZGS_ROUTE3              622  // MUS_RG_LOAD02
-#define MUS_ZGS_SCARLET_DEVIL_MANSION 623
-#define MUS_ZGS_SEVII_123           624  // MUS_RG_NANA123
-#define MUS_ZGS_SEVII_45            625  // MUS_RG_NANA45
-#define MUS_ZGS_SEVII_67            626  // MUS_RG_NANA67
-#define MUS_ZGS_SEVII_CAVE          627  // MUS_RG_NANADUNGEON
-#define MUS_ZGS_SEVII_DUNGEON       628  // MUS_RG_NANAISEKI
-#define MUS_ZGS_SEVII_ROUTE         629  // MUS_RG_NANASHIMA
-#define MUS_ZGS_SILPH               630  // MUS_RG_SHIRUHU
-#define MUS_ZGS_SLOW_PALLET         631  // MUS_RG_SLOWMASARA
-#define MUS_ZGS_SS_ANNE             632  // MUS_RG_SANTOAN
-#define MUS_ZGS_SURF                633  // MUS_RG_NAMINORI
-#define MUS_ZGS_TITLE               634  // MUS_RG_TITLE
-#define MUS_ZGS_VERMILLION          635  // MUS_RG_KUCHIBA
-#define MUS_ZGS_VICTORY_GYM_LEADER  636  // MUS_RG_WIN_GYM       // Identical to MUS_VICTORY_GYM_LEADER.
-#define MUS_ZGS_VICTORY_ROAD        637  // MUS_RG_CHAMP_R
-#define MUS_ZGS_VICTORY_TRAINER     638  // MUS_RG_WIN_TRE       // Identical to MUS_VICTORY_TRAINER.
-#define MUS_ZGS_VICTORY_WILD        639  // MUS_RG_WIN_YASEI     // Identical to MUS_VICTORY_WILD.
-#define MUS_ZGS_VIRIDIAN_FOREST     640  // MUS_RG_T_MORI
-#define MUS_ZGS_VS_AYA              641
-#define MUS_ZGS_VS_AYA_REMATCH      642
-#define MUS_ZGS_VS_BYAKUREN         643
-#define MUS_ZGS_VS_CHAMPION         644  // MUS_RG_VS_LAST
-#define MUS_ZGS_VS_DREAM_TRAINER    645
-#define MUS_ZGS_VS_DREAM_WILD       646
-#define MUS_ZGS_VS_EIKI             647
-#define MUS_ZGS_VS_GYM_LEADER       648  // MUS_RG_VS_GYM
-#define MUS_ZGS_VS_KAGUYA           649
-#define MUS_ZGS_VS_LEGEND           650  // MUS_RG_VS_DEN
-#define MUS_ZGS_VS_MARISA           651
-#define MUS_ZGS_VS_MARISA_REMATCH   652
-#define MUS_ZGS_VS_MIMA             653  // MUS_RG_VS_DEO
-#define MUS_ZGS_VS_REIMU            654
-#define MUS_ZGS_VS_SAKUYA           655
-#define MUS_ZGS_VS_SARIEL           656  // MUS_RG_VS_MYU2
-#define MUS_ZGS_VS_TRAINER          657  // MUS_RG_VS_TORE
-#define MUS_ZGS_VS_WILD             658  // MUS_RG_VS_YASEI
-#define MUS_ZGS_VS_YUYUKO           659
+#define MUS_WLD_SURF                561  //Higan Retour ~ Riverside View (Komachi's Theme)
+#define MUS_WLD_VS_WILD             562  //Love Colored Master Spark (IN Marisa Theme)
+#define MUS_ZGS_AGTLP               563  //
+#define MUS_ZGS_BAMBOO_FOREST       564  //Illusionary Night ~ Ghostly Eyes (IN Stage 1)
+#define MUS_ZGS_BELL_OF_AVICI       565  //Bell of Avici ~ Infinite Nightmare (DS Event 4)
+#define MUS_ZGS_CAUGHT              566  //Reach for the Moon, Immortal Smoke (Mokou's Theme)
+#define MUS_ZGS_CAUGHT_INTRO        567  //Shanghai Scarlet Teahouse ~ Chinese Tea (EoSD Stage 3)
+#define MUS_ZGS_CELADON             568  //
+#define MUS_ZGS_CINNABAR            569  //Hellfire Mantle (SA Stage 6)
+#define MUS_ZGS_CITY_OF_FLOWER      570  //The Capital City of Flowers in the Sky (PCB Stage 4)
+#define MUS_ZGS_CREDITS             571  //
+#define MUS_ZGS_CYCLING             572  //
+#define MUS_ZGS_DARK_BLOW_HOLE      573  //The Dark Blowhole (SA Stage 1)
+#define MUS_ZGS_EIKI_ISLAND         574  //Mound of Shigan (PoFV Pre-Boss theme)
+#define MUS_ZGS_ENCOUNTER_ALICE     575  //Alice in Wonderland (MS Extra Stage)
+#define MUS_ZGS_ENCOUNTER_BOY       576  //The Traditional Old Man and the Stylish Girl (Ichirin's Theme)
+#define MUS_ZGS_ENCOUNTER_DEOXYS    577  //A Sacred Lot (Touhou 1 Title Screen Theme)
+#define MUS_ZGS_ENCOUNTER_FAIRY     578  //Year-Round Absorbed Curiosity (GFW Stage 2)
+#define MUS_ZGS_ENCOUNTER_GIRL      579  //A Flower-Studded Sake Dish on Mt. Ooe (Yuugi's Theme)
+#define MUS_ZGS_ENCOUNTER_GYM_LEADER 580 //Deaf to All but the Song (Mystia's Theme)
+#define MUS_ZGS_ENCOUNTER_MEILING   581  //Shanghai Alice of Meiji 17 (Meiling's Theme)
+#define MUS_ZGS_ENCOUNTER_NITORI    582  //Akutagawa Ryuunosuke's "Kappa" ~ Candid Friend (Nitori's Theme)
+#define MUS_ZGS_ENCOUNTER_PRISMRIVER 583 //Phantom Band ~ Phantom Ensemble (Prismriver's Theme)
+#define MUS_ZGS_ENCOUNTER_RIVAL     584  //The Ground's Color is Yellow? (SWR Ruined Hakurei Shrine theme?)
+#define MUS_ZGS_ENCOUNTER_ROCKET    585  //The Sealed-Away Youkai ~ Lost Placen(Yamame's Theme)
+#define MUS_ZGS_ENCOUNTER_TENGU     586  //Fall of Fall ~ Autumnal Waterfall?
+#define MUS_ZGS_END_OF_DAYLIGHT     587  //
+#define MUS_ZGS_END_OF_SPRING       588  //
+#define MUS_ZGS_EVOLUTION           589  //Our Hisoutensoku
+#define MUS_ZGS_EVOLUTION_INTRO     590  //
+#define MUS_ZGS_EVOLVED             591  //
+#define MUS_ZGS_FOLLOW_ME           592  //
+#define MUS_ZGS_FUCHSIA             593  //Tomboyish Girl in Love (Cirno's Theme)
+#define MUS_ZGS_GAME_CORNER         594  //
+#define MUS_ZGS_GYM                 595  //Emotional Skyscraper ~ Cosmic Mind (Byakuren's Theme)
+#define MUS_ZGS_HALL_OF_FAME        596  // Oriental Story of Forgathering Dream
+#define MUS_ZGS_HEAL                597  //
+#define MUS_ZGS_INTRO_FIGHT         598  //
+#define MUS_ZGS_JIGGLYPUFF          599  //Deaf to All but the Song (Mystia's Theme)
+#define MUS_ZGS_LAVENDER            600  //
+#define MUS_ZGS_MARISA_SCENE        601  //
+#define MUS_ZGS_MEGAMARI_OPENING    602  //
+#define MUS_ZGS_MEGAMARI_OPENING_ALT 603 //
+#define MUS_ZGS_MORIYA_SHRINE       604  //The Primal Scene of Japan the Girl Saw (MoF Stage 5)
+#define MUS_ZGS_MOVE_DELETED        605  //Plain Asia? (Keine's Theme?)
+#define MUS_ZGS_MT_MOON             606  //The Bridge People No Longer Cross? (SA Stage 2?)
+#define MUS_ZGS_OAK                 607  //
+#define MUS_ZGS_OAK_LAB             608  //Plain Asia (Keine's Theme)
+#define MUS_ZGS_PALLET              609  //
+#define MUS_ZGS_PARADISE_DEEP_MOUNTAIN 610 //Paradise ~ Deep Mountain (PCB Stage 1)
+#define MUS_ZGS_PATCHOULI_LIBRARY   611  //Locked Girl ~ The Girl's Sealed Room (Patchouli's Theme)
+#define MUS_ZGS_PEWTER              612  //
+#define MUS_ZGS_POKE_CENTER         613  //Gensokyo Millennium ~ History of the Moon (Eirin's Theme)
+#define MUS_ZGS_POKE_FLUTE          614  //
+#define MUS_ZGS_POKE_MANSION        615  //Satori Maiden ~ 3rd eye (Satori's Theme)
+#define MUS_ZGS_POKE_TOWER          616  //Eastern Ghostly Dream ~ Ancient Temple (PCB Stage 5 Theme)
+#define MUS_ZGS_PRISMRIVER_MANSION  617  //Phantom Band ~ Phantom Ensemble (Prismriver's Theme)
+#define MUS_ZGS_ROCKET_HIDEOUT      618  //The Road of the Misfortune God ~ Dark Road (MoF Stage 2)
+#define MUS_ZGS_ROUTE1              619  //
+#define MUS_ZGS_ROUTE11             620  //
+#define MUS_ZGS_ROUTE24             621  //
+#define MUS_ZGS_ROUTE3              622  //Lunate Elf (EoSD Stage 2)
+#define MUS_ZGS_SCARLET_DEVIL_MANSION 623 //Septette for a Dead Princess (Remilia's Theme)
+#define MUS_ZGS_SEVII_123           624  //Eternal Shrine Maiden (Touhou HRtP Stage Theme)
+#define MUS_ZGS_SEVII_45            625  //Vanishing Dream ~ Lost Dream (Kana's Theme)
+#define MUS_ZGS_SEVII_67            626  //Alice in Wonderland (MS Extra Stage Theme)
+#define MUS_ZGS_SEVII_CAVE          627  //
+#define MUS_ZGS_SEVII_DUNGEON       628  //Bad Apple (Elly's Theme)
+#define MUS_ZGS_SEVII_ROUTE         629  //Duplicate of Route 24?
+#define MUS_ZGS_SILPH               630  //Heian Alien (Nue's Theme)
+#define MUS_ZGS_SLOW_PALLET         631  //different than MUS_ZGS_PALLET
+#define MUS_ZGS_SS_ANNE             632  //Interdimensional Voyage of a Ghostly Passenger Ship (UFO Stage 4)
+#define MUS_ZGS_SURF                633  //Akutagawa Ryuunosuke's "Kappa" ~ Candid Friend (Nitori's Theme)
+#define MUS_ZGS_TITLE               634  //
+#define MUS_ZGS_VERMILLION          635  //
+#define MUS_ZGS_VICTORY_GYM_LEADER  636  //Corpse Voyage ~ Be of good cheer! (Rin's Theme)
+#define MUS_ZGS_VICTORY_ROAD        637  //Septette for a Dead Princess (Remilia's Theme)
+#define MUS_ZGS_VICTORY_TRAINER     638  //
+#define MUS_ZGS_VICTORY_WILD        639  //Reach for the Moon, Immortal Smoke (Mokou's Theme)
+#define MUS_ZGS_VIRIDIAN_FOREST     640  //
+#define MUS_ZGS_VS_AYA              641  //Wind God Girl (Aya's Theme)
+#define MUS_ZGS_VS_AYA_REMATCH      642  //Youkai Mountain ~ Mysterious Mountain (Aya's Mof Theme)
+#define MUS_ZGS_VS_BYAKUREN         643  //Emotional Skyscraper ~ Cosmic Mind (Byakuren's Theme)
+#define MUS_ZGS_VS_CHAMPION         644  //Necrofantasia (Yukari's PCB Theme)
+#define MUS_ZGS_VS_DREAM_TRAINER    645  //Love Colored Magic (Marisa's SoEW Theme)
+#define MUS_ZGS_VS_DREAM_WILD       646  // One of Alice's themes?
+#define MUS_ZGS_VS_EIKI             647  //Eastern Judgement in the Sixtieth Year ~ Fate of Sixty Years (Eiki's Theme)
+#define MUS_ZGS_VS_GYM_LEADER       648  //Septette for a Dead Princess (Remilia's Theme)
+#define MUS_ZGS_VS_KAGUYA           649  //Flight of the Bamboo Cutter ~ Lunatic Princess (Kaguya's Theme)
+#define MUS_ZGS_VS_LEGEND           650  //Now, Until the Moment You Die (Sariel's theme)
+#define MUS_ZGS_VS_MARISA           651  //The Witches' Ball ~ Magus (Marisa's Shuusou Gyoku Theme)
+#define MUS_ZGS_VS_MARISA_REMATCH   652  //Magus Night (Marisa's GFW Theme)
+#define MUS_ZGS_VS_MIMA             653  //
+#define MUS_ZGS_VS_REIMU            654  //Maiden's Capriccio ~ Dream Battle (Reimu's IN Theme)
+#define MUS_ZGS_VS_SAKUYA           655  //Lunar Clock ~ Luna Dial (Sakuya's EoSD Theme)
+#define MUS_ZGS_VS_SARIEL           656  //Civilization of Magic (Sariel's Theme)
+#define MUS_ZGS_VS_TRAINER          657  //Love Colored Master Spark (Marisa's IN Theme)
+#define MUS_ZGS_VS_WILD             658  //Doll Judgement ~ The Girl Who Played with People's Shapes (Alice's PCB Theme)
+#define MUS_ZGS_VS_YUYUKO           659  //Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life (Yuyuko's Theme)
 //Misc Music
 #define MUS_HGSS_CASINO             660
 #define MUS_CASINO_PLUS_1           661
