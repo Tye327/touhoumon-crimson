@@ -11045,6 +11045,90 @@
       "secondary_tileset": "gTileset_CeladonCity",
       "border_filepath": "data/layouts/Route9_C/border.bin",
       "blockdata_filepath": "data/layouts/Route9_C/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_MYSTIC_1F",
+      "name": "MtMystic_1F_Layout",
+      "width": 64,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_DiglettsCave",
+      "border_filepath": "data/layouts/MtMystic_1F/border.bin",
+      "blockdata_filepath": "data/layouts/MtMystic_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_MYSTIC_PEAK",
+      "name": "MtMystic_Peak_Layout",
+      "width": 64,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_DiglettsCave",
+      "border_filepath": "data/layouts/MtMystic_Peak/border.bin",
+      "blockdata_filepath": "data/layouts/MtMystic_Peak/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_MYSTIC_2F",
+      "name": "MtMystic_2F_Layout",
+      "width": 64,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_DiglettsCave",
+      "border_filepath": "data/layouts/MtMystic_2F/border.bin",
+      "blockdata_filepath": "data/layouts/MtMystic_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_MYSTIC_3F",
+      "name": "MtMystic_3F_Layout",
+      "width": 24,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_DiglettsCave",
+      "border_filepath": "data/layouts/MtMystic_3F/border.bin",
+      "blockdata_filepath": "data/layouts/MtMystic_3F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE10_C",
+      "name": "Route10_C_Layout",
+      "width": 64,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Barn",
+      "border_filepath": "data/layouts/Route10_C/border.bin",
+      "blockdata_filepath": "data/layouts/Route10_C/map.bin"
+    },
+    {
+      "id": "LAYOUT_FANTASY_TOWN",
+      "name": "FantasyTown_Layout",
+      "width": 36,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Barn",
+      "border_filepath": "data/layouts/FantasyTown/border.bin",
+      "blockdata_filepath": "data/layouts/FantasyTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_DANMAKU_DUNES",
+      "name": "DanmakuDunes_Layout",
+      "width": 96,
+      "height": 48,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Barn",
+      "border_filepath": "data/layouts/DanmakuDunes/border.bin",
+      "blockdata_filepath": "data/layouts/DanmakuDunes/map.bin"
     }
   ]
 }

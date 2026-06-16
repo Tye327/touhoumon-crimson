@@ -1174,7 +1174,8 @@
     "StrangeCity",
     "DreamTown",
     "ShiningCity",
-    "RomanticPort"
+    "RomanticPort",
+    "FantasyTown"
   ],
   "gMapGroup_Routes_C": [
     "WondrousBeach",
@@ -1194,7 +1195,9 @@
     "Route7_C",
     "Route8_C",
     "BizarreBeach",
-    "Route9_C"
+    "Route9_C",
+    "Route10_C",
+    "DanmakuDunes"
   ],
   "gMapGroup_Dungeons_C": [
     "FairyForest",
@@ -1210,7 +1213,11 @@
     "MasqueradeManor_1F",
     "MasqueradeManor_2F",
     "MasqueradeManor_B1F",
-    "TabooThicket"
+    "TabooThicket",
+    "MtMystic_1F",
+    "MtMystic_2F",
+    "MtMystic_Peak",
+    "MtMystic_3F"
   ],
   "gMapGroup_IndoorWondrous": [
     "PlayerRoom",

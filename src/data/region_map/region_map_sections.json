@@ -1758,6 +1758,22 @@
     {
       "id": "MAPSEC_ROUTE_9C",
       "name": "Route 9"
+    },
+    {
+      "id": "MAPSEC_MT_MYSTIC",
+      "name": "Mt. Mystic"
+    },
+    {
+      "id": "MAPSEC_ROUTE_10C",
+      "name": "Route 10"
+    },
+    {
+      "id": "MAPSEC_FANTASY_TOWN",
+      "name": "Fantasy Town"
+    },
+    {
+      "id": "MAPSEC_DANMAKU_DUNES",
+      "name": "Danmaku Dunes"
     }
   ]
 }

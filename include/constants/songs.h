@@ -503,7 +503,7 @@
 #define MUS_ZGS_BELL_OF_AVICI       565  //Bell of Avici ~ Infinite Nightmare (DS Event 4)
 #define MUS_ZGS_CAUGHT              566  //Reach for the Moon, Immortal Smoke (Mokou's Theme)
 #define MUS_ZGS_CAUGHT_INTRO        567  //Shanghai Scarlet Teahouse ~ Chinese Tea (EoSD Stage 3)
-#define MUS_ZGS_CELADON             568  //
+#define MUS_ZGS_CELADON             568  //Tomorrow Will Be Special, Yesterday Was Not (MoF Extra Stage)
 #define MUS_ZGS_CINNABAR            569  //Hellfire Mantle (SA Stage 6)
 #define MUS_ZGS_CITY_OF_FLOWER      570  //The Capital City of Flowers in the Sky (PCB Stage 4)
 #define MUS_ZGS_CREDITS             571  //
@@ -535,16 +535,16 @@
 #define MUS_ZGS_HEAL                597  //
 #define MUS_ZGS_INTRO_FIGHT         598  //
 #define MUS_ZGS_JIGGLYPUFF          599  //Deaf to All but the Song (Mystia's Theme)
-#define MUS_ZGS_LAVENDER            600  //
+#define MUS_ZGS_LAVENDER            600  //Ultimate Truth (PCB Stage 6)
 #define MUS_ZGS_MARISA_SCENE        601  //
 #define MUS_ZGS_MEGAMARI_OPENING    602  //
 #define MUS_ZGS_MEGAMARI_OPENING_ALT 603 //
 #define MUS_ZGS_MORIYA_SHRINE       604  //The Primal Scene of Japan the Girl Saw (MoF Stage 5)
 #define MUS_ZGS_MOVE_DELETED        605  //Plain Asia? (Keine's Theme?)
 #define MUS_ZGS_MT_MOON             606  //The Bridge People No Longer Cross? (SA Stage 2?)
-#define MUS_ZGS_OAK                 607  //
+#define MUS_ZGS_OAK                 607  // A Dream More Scarlet than Red (EoSD Title Screen)
 #define MUS_ZGS_OAK_LAB             608  //Plain Asia (Keine's Theme)
-#define MUS_ZGS_PALLET              609  //
+#define MUS_ZGS_PALLET              609  //Spring Lane ~ Colorful Path (Reimu's PoFV Theme)
 #define MUS_ZGS_PARADISE_DEEP_MOUNTAIN 610 //Paradise ~ Deep Mountain (PCB Stage 1)
 #define MUS_ZGS_PATCHOULI_LIBRARY   611  //Locked Girl ~ The Girl's Sealed Room (Patchouli's Theme)
 #define MUS_ZGS_PEWTER              612  //
@@ -554,15 +554,15 @@
 #define MUS_ZGS_POKE_TOWER          616  //Eastern Ghostly Dream ~ Ancient Temple (PCB Stage 5 Theme)
 #define MUS_ZGS_PRISMRIVER_MANSION  617  //Phantom Band ~ Phantom Ensemble (Prismriver's Theme)
 #define MUS_ZGS_ROCKET_HIDEOUT      618  //The Road of the Misfortune God ~ Dark Road (MoF Stage 2)
-#define MUS_ZGS_ROUTE1              619  //
-#define MUS_ZGS_ROUTE11             620  //
-#define MUS_ZGS_ROUTE24             621  //
+#define MUS_ZGS_ROUTE1              619  //A Soul as Scarlet as a Ground Cherry (EoSD Stage 1)
+#define MUS_ZGS_ROUTE11             620  // The Gensokyo the Gods Loved (MoF Stage 3)
+#define MUS_ZGS_ROUTE24             621  // Kid's Festival ~ Innocent Treasures (Changeability of Strange Dream)
 #define MUS_ZGS_ROUTE3              622  //Lunate Elf (EoSD Stage 2)
 #define MUS_ZGS_SCARLET_DEVIL_MANSION 623 //Septette for a Dead Princess (Remilia's Theme)
 #define MUS_ZGS_SEVII_123           624  //Eternal Shrine Maiden (Touhou HRtP Stage Theme)
 #define MUS_ZGS_SEVII_45            625  //Vanishing Dream ~ Lost Dream (Kana's Theme)
 #define MUS_ZGS_SEVII_67            626  //Alice in Wonderland (MS Extra Stage Theme)
-#define MUS_ZGS_SEVII_CAVE          627  //
+#define MUS_ZGS_SEVII_CAVE          627  //Hakurei Shrine Grounds (Unused SoEW Theme)
 #define MUS_ZGS_SEVII_DUNGEON       628  //Bad Apple (Elly's Theme)
 #define MUS_ZGS_SEVII_ROUTE         629  //Duplicate of Route 24?
 #define MUS_ZGS_SILPH               630  //Heian Alien (Nue's Theme)
@@ -570,12 +570,12 @@
 #define MUS_ZGS_SS_ANNE             632  //Interdimensional Voyage of a Ghostly Passenger Ship (UFO Stage 4)
 #define MUS_ZGS_SURF                633  //Akutagawa Ryuunosuke's "Kappa" ~ Candid Friend (Nitori's Theme)
 #define MUS_ZGS_TITLE               634  //
-#define MUS_ZGS_VERMILLION          635  //
+#define MUS_ZGS_VERMILLION          635  //Beware the Umbrella Left There Forever (Kogasa's Theme)
 #define MUS_ZGS_VICTORY_GYM_LEADER  636  //Corpse Voyage ~ Be of good cheer! (Rin's Theme)
 #define MUS_ZGS_VICTORY_ROAD        637  //Septette for a Dead Princess (Remilia's Theme)
 #define MUS_ZGS_VICTORY_TRAINER     638  //
 #define MUS_ZGS_VICTORY_WILD        639  //Reach for the Moon, Immortal Smoke (Mokou's Theme)
-#define MUS_ZGS_VIRIDIAN_FOREST     640  //
+#define MUS_ZGS_VIRIDIAN_FOREST     640  //Deaf to All but the Song (Mystia's Theme)
 #define MUS_ZGS_VS_AYA              641  //Wind God Girl (Aya's Theme)
 #define MUS_ZGS_VS_AYA_REMATCH      642  //Youkai Mountain ~ Mysterious Mountain (Aya's Mof Theme)
 #define MUS_ZGS_VS_BYAKUREN         643  //Emotional Skyscraper ~ Cosmic Mind (Byakuren's Theme)

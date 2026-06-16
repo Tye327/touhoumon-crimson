@@ -1930,3 +1930,24 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/Route9_C/scripts.inc"
 	.include "data/maps/Route9_C/text.inc"
+
+	.include "data/maps/MtMystic_1F/scripts.inc"
+	.include "data/maps/MtMystic_1F/text.inc"
+
+	.include "data/maps/MtMystic_Peak/scripts.inc"
+	.include "data/maps/MtMystic_Peak/text.inc"
+
+	.include "data/maps/MtMystic_2F/scripts.inc"
+	.include "data/maps/MtMystic_2F/text.inc"
+
+	.include "data/maps/MtMystic_3F/scripts.inc"
+	.include "data/maps/MtMystic_3F/text.inc"
+
+	.include "data/maps/Route10_C/scripts.inc"
+	.include "data/maps/Route10_C/text.inc"
+
+	.include "data/maps/FantasyTown/scripts.inc"
+	.include "data/maps/FantasyTown/text.inc"
+
+	.include "data/maps/DanmakuDunes/scripts.inc"
+	.include "data/maps/DanmakuDunes/text.inc"

@@ -1,0 +1,107 @@
+{
+  "id": "MAP_MT_MYSTIC_1F",
+  "name": "MtMystic_1F",
+  "layout": "LAYOUT_MT_MYSTIC_1F",
+  "music": "MUS_ZGS_SEVII_CAVE",
+  "region_map_section": "MAPSEC_MT_MYSTIC",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_UNDERGROUND",
+  "allow_cycling": true,
+  "allow_escaping": true,
+  "allow_running": true,
+  "show_map_name": true,
+  "floor_number": 0,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": null,
+  "object_events": [
+    {
+      "type": "object",
+      "graphics_id": "OBJ_EVENT_GFX_PUSHABLE_BOULDER",
+      "x": 58,
+      "y": 23,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "NULL",
+      "flag": "0"
+    }
+  ],
+  "warp_events": [
+    {
+      "x": 6,
+      "y": 2,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MYSTIC_2F",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 28,
+      "y": 2,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MYSTIC_2F",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 44,
+      "y": 2,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MYSTIC_2F",
+      "dest_warp_id": "2"
+    },
+    {
+      "x": 61,
+      "y": 2,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MYSTIC_2F",
+      "dest_warp_id": "3"
+    },
+    {
+      "x": 2,
+      "y": 14,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MYSTIC_2F",
+      "dest_warp_id": "4"
+    },
+    {
+      "x": 57,
+      "y": 16,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MYSTIC_2F",
+      "dest_warp_id": "5"
+    },
+    {
+      "x": 21,
+      "y": 28,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MYSTIC_2F",
+      "dest_warp_id": "6"
+    },
+    {
+      "x": 38,
+      "y": 26,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MYSTIC_2F",
+      "dest_warp_id": "7"
+    },
+    {
+      "x": 4,
+      "y": 29,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MYSTIC_1F",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 59,
+      "y": 29,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE9_C",
+      "dest_warp_id": "0"
+    }
+  ],
+  "coord_events": [],
+  "bg_events": []
+}
