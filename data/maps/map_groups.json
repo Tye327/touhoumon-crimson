@@ -1175,7 +1175,8 @@
     "DreamTown",
     "ShiningCity",
     "RomanticPort",
-    "FantasyTown"
+    "FantasyTown",
+    "GhostlyCity"
   ],
   "gMapGroup_Routes_C": [
     "WondrousBeach",
@@ -1217,7 +1218,11 @@
     "MtMystic_1F",
     "MtMystic_2F",
     "MtMystic_Peak",
-    "MtMystic_3F"
+    "MtMystic_3F",
+    "LunaticLabyrinth_1F",
+    "LunaticLabyrinth_2F",
+    "LunaticLabyrinth_3F",
+    "LunaticLabyrinth_B1F"
   ],
   "gMapGroup_IndoorWondrous": [
     "PlayerRoom",

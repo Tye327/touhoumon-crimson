@@ -11129,6 +11129,66 @@
       "secondary_tileset": "gTileset_Barn",
       "border_filepath": "data/layouts/DanmakuDunes/border.bin",
       "blockdata_filepath": "data/layouts/DanmakuDunes/map.bin"
+    },
+    {
+      "id": "LAYOUT_GHOSTLY_CITY",
+      "name": "GhostlyCity_Layout",
+      "width": 42,
+      "height": 42,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Barn",
+      "border_filepath": "data/layouts/GhostlyCity/border.bin",
+      "blockdata_filepath": "data/layouts/GhostlyCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_LUNATIC_LABYRINTH_1F",
+      "name": "LunaticLabyrinth_1F_Layout",
+      "width": 64,
+      "height": 64,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_TanobyRuins",
+      "border_filepath": "data/layouts/LunaticLabyrinth_1F/border.bin",
+      "blockdata_filepath": "data/layouts/LunaticLabyrinth_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_LUNATIC_LABYRINTH_2F",
+      "name": "LunaticLabyrinth_2F_Layout",
+      "width": 44,
+      "height": 44,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_TanobyRuins",
+      "border_filepath": "data/layouts/LunaticLabyrinth_2F/border.bin",
+      "blockdata_filepath": "data/layouts/LunaticLabyrinth_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_LUNATIC_LABYRINTH_3F",
+      "name": "LunaticLabyrinth_3F_Layout",
+      "width": 44,
+      "height": 44,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_TanobyRuins",
+      "border_filepath": "data/layouts/LunaticLabyrinth_3F/border.bin",
+      "blockdata_filepath": "data/layouts/LunaticLabyrinth_3F/map.bin"
+    },
+    {
+      "id": "LAYOUT_LUNATIC_LABYRINTH_B1F",
+      "name": "LunaticLabyrinth_B1F_Layout",
+      "width": 24,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_TanobyRuins",
+      "border_filepath": "data/layouts/LunaticLabyrinth_B1F/border.bin",
+      "blockdata_filepath": "data/layouts/LunaticLabyrinth_B1F/map.bin"
     }
   ]
 }

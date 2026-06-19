@@ -1951,3 +1951,18 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/DanmakuDunes/scripts.inc"
 	.include "data/maps/DanmakuDunes/text.inc"
+
+	.include "data/maps/GhostlyCity/scripts.inc"
+	.include "data/maps/GhostlyCity/text.inc"
+
+	.include "data/maps/LunaticLabyrinth_1F/scripts.inc"
+	.include "data/maps/LunaticLabyrinth_1F/text.inc"
+
+	.include "data/maps/LunaticLabyrinth_B1F/scripts.inc"
+	.include "data/maps/LunaticLabyrinth_B1F/text.inc"
+
+	.include "data/maps/LunaticLabyrinth_3F/scripts.inc"
+	.include "data/maps/LunaticLabyrinth_3F/text.inc"
+
+	.include "data/maps/LunaticLabyrinth_2F/scripts.inc"
+	.include "data/maps/LunaticLabyrinth_2F/text.inc"
