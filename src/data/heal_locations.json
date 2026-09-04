@@ -361,7 +361,7 @@
     {
       "id": "HEAL_LOCATION_RECORD_TOWN",
       "map": "MAP_RECORD_TOWN",
-      "x": 19,
+      "x": 23,
       "y": 10,
       "respawn_map": "MAP_PLAYER_HOME",
       "respawn_npc": "LOCALID_PLAYER_HOME_MOM"
@@ -383,11 +383,43 @@
       "respawn_npc": "LOCALID_PLAYER_HOME_MOM"
     },
     {
-      "id": "HEAL_LOCATION_ROUTE5_C",
-      "map": "MAP_ROUTE5_C",
+      "id": "HEAL_LOCATION_DREAM_TOWN",
+      "map": "MAP_DREAM_TOWN",
+      "x": 13,
+      "y": 16,
+      "respawn_map": "MAP_PLAYER_HOME",
+      "respawn_npc": "LOCALID_PLAYER_HOME_MOM"
+    },
+    {
+      "id": "HEAL_LOCATION_STRANGE_CITY",
+      "map": "MAP_STRANGE_CITY",
+      "x": 17,
+      "y": 20,
+      "respawn_map": "MAP_PLAYER_HOME",
+      "respawn_npc": "LOCALID_PLAYER_HOME_MOM"
+    },
+    {
+      "id": "HEAL_LOCATION_ROMANTIC_PORT",
+      "map": "MAP_ROMANTIC_PORT",
+      "x": 19,
+      "y": 26,
+      "respawn_map": "MAP_ROMANTIC_PORT",
+      "respawn_npc": "1"
+    },
+    {
+      "id": "HEAL_LOCATION_SHINING_CITY",
+      "map": "MAP_SHINING_CITY",
+      "x": 35,
+      "y": 30,
+      "respawn_map": "MAP_SHINING_CITY",
+      "respawn_npc": "1"
+    },
+    {
+      "id": "HEAL_LOCATION_FANTASY_TOWN",
+      "map": "MAP_FANTASY_TOWN",
       "x": 12,
-      "y": 22,
-      "respawn_map": "MAP_ROUTE5_C",
+      "y": 15,
+      "respawn_map": "MAP_FANTASY_TOWN",
       "respawn_npc": "1"
     }
   ]

@@ -16,7 +16,7 @@
   "connections": [
     {
       "map": "MAP_STRANGE_CITY",
-      "offset": -2,
+      "offset": 30,
       "direction": "up"
     }
   ],

@@ -1901,3 +1901,69 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/DreamTown/scripts.inc"
 	.include "data/maps/DreamTown/text.inc"
+
+	.include "data/maps/MasqueradeManor_1F/scripts.inc"
+	.include "data/maps/MasqueradeManor_1F/text.inc"
+
+	.include "data/maps/MasqueradeManor_2F/scripts.inc"
+	.include "data/maps/MasqueradeManor_2F/text.inc"
+
+	.include "data/maps/MasqueradeManor_B1F/scripts.inc"
+	.include "data/maps/MasqueradeManor_B1F/text.inc"
+
+	.include "data/maps/TabooThicket/scripts.inc"
+	.include "data/maps/TabooThicket/text.inc"
+
+	.include "data/maps/Route7_C/scripts.inc"
+	.include "data/maps/Route7_C/text.inc"
+
+	.include "data/maps/Route8_C/scripts.inc"
+	.include "data/maps/Route8_C/text.inc"
+
+	.include "data/maps/BizarreBeach/scripts.inc"
+	.include "data/maps/BizarreBeach/text.inc"
+
+	.include "data/maps/ShiningCity/scripts.inc"
+	.include "data/maps/ShiningCity/text.inc"
+
+	.include "data/maps/RomanticPort/scripts.inc"
+	.include "data/maps/RomanticPort/text.inc"
+
+	.include "data/maps/Route9_C/scripts.inc"
+	.include "data/maps/Route9_C/text.inc"
+
+	.include "data/maps/MtMystic_1F/scripts.inc"
+	.include "data/maps/MtMystic_1F/text.inc"
+
+	.include "data/maps/MtMystic_Peak/scripts.inc"
+	.include "data/maps/MtMystic_Peak/text.inc"
+
+	.include "data/maps/MtMystic_2F/scripts.inc"
+	.include "data/maps/MtMystic_2F/text.inc"
+
+	.include "data/maps/MtMystic_3F/scripts.inc"
+	.include "data/maps/MtMystic_3F/text.inc"
+
+	.include "data/maps/Route10_C/scripts.inc"
+	.include "data/maps/Route10_C/text.inc"
+
+	.include "data/maps/FantasyTown/scripts.inc"
+	.include "data/maps/FantasyTown/text.inc"
+
+	.include "data/maps/DanmakuDunes/scripts.inc"
+	.include "data/maps/DanmakuDunes/text.inc"
+
+	.include "data/maps/GhostlyCity/scripts.inc"
+	.include "data/maps/GhostlyCity/text.inc"
+
+	.include "data/maps/LunaticLabyrinth_1F/scripts.inc"
+	.include "data/maps/LunaticLabyrinth_1F/text.inc"
+
+	.include "data/maps/LunaticLabyrinth_B1F/scripts.inc"
+	.include "data/maps/LunaticLabyrinth_B1F/text.inc"
+
+	.include "data/maps/LunaticLabyrinth_3F/scripts.inc"
+	.include "data/maps/LunaticLabyrinth_3F/text.inc"
+
+	.include "data/maps/LunaticLabyrinth_2F/scripts.inc"
+	.include "data/maps/LunaticLabyrinth_2F/text.inc"

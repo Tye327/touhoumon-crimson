@@ -1,6 +1,9 @@
 #ifndef GUARD_METATILE_LABELS_H
 #define GUARD_METATILE_LABELS_H
 
+// gTileset_Barn
+#define METATILE_Barn_DesertEncounter  0x85B
+
 // gTileset_BattleArena
 #define METATILE_BattleArena_Door  0x81B
 

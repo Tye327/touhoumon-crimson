@@ -1730,6 +1730,58 @@
     {
       "id": "MAPSEC_DREAM_TOWN",
       "name": "Dream Town"
+    },
+    {
+      "id": "MAPSEC_TABOO_THICKET",
+      "name": "Taboo Thicket"
+    },
+    {
+      "id": "MAPSEC_ROUTE_7C",
+      "name": "Route 7"
+    },
+    {
+      "id": "MAPSEC_ROUTE_8C",
+      "name": "Route 8"
+    },
+    {
+      "id": "MAPSEC_BIZARRE_BEACH",
+      "name": "Bizzare Beach"
+    },
+    {
+      "id": "MAPSEC_SHINING_CITY",
+      "name": "Shining City"
+    },
+    {
+      "id": "MAPSEC_ROMANTIC_PORT",
+      "name": "Romantic Port"
+    },
+    {
+      "id": "MAPSEC_ROUTE_9C",
+      "name": "Route 9"
+    },
+    {
+      "id": "MAPSEC_MT_MYSTIC",
+      "name": "Mt. Mystic"
+    },
+    {
+      "id": "MAPSEC_ROUTE_10C",
+      "name": "Route 10"
+    },
+    {
+      "id": "MAPSEC_FANTASY_TOWN",
+      "name": "Fantasy Town"
+    },
+    {
+      "id": "MAPSEC_DANMAKU_DUNES",
+      "name": "Danmaku Dunes"
+    },
+    {
+      "id": "MAPSEC_GHOSTLY_CITY",
+      "name": "Ghostly City"
+    },
+    {
+      "id": "MAPSEC_LUNATIC_LABYRINTH",
+      "name": "Lunatic Labyrinth"
     }
   ]
 }

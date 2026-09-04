@@ -10213,7 +10213,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_PalletTown",
       "border_filepath": "data/layouts/WondrousTown/border.bin",
       "blockdata_filepath": "data/layouts/WondrousTown/map.bin"
@@ -10225,7 +10225,7 @@
       "height": 10,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_BuildingFrlg",
+      "primary_tileset": "gTileset_RG_Building",
       "secondary_tileset": "gTileset_GenericBuilding1",
       "border_filepath": "data/layouts/PlayerHome/border.bin",
       "blockdata_filepath": "data/layouts/PlayerHome/map.bin"
@@ -10237,7 +10237,7 @@
       "height": 9,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_BuildingFrlg",
+      "primary_tileset": "gTileset_RG_Building",
       "secondary_tileset": "gTileset_GenericBuilding1",
       "border_filepath": "data/layouts/PlayerRoom/border.bin",
       "blockdata_filepath": "data/layouts/PlayerRoom/map.bin"
@@ -10249,7 +10249,7 @@
       "height": 14,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_BuildingFrlg",
+      "primary_tileset": "gTileset_RG_Building",
       "secondary_tileset": "gTileset_Lab_Frlg",
       "border_filepath": "data/layouts/WondrousLab/border.bin",
       "blockdata_filepath": "data/layouts/WondrousLab/map.bin"
@@ -10261,7 +10261,7 @@
       "height": 40,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_PalletTown",
       "border_filepath": "data/layouts/WondrousBeach/border.bin",
       "blockdata_filepath": "data/layouts/WondrousBeach/map.bin"
@@ -10273,7 +10273,7 @@
       "height": 24,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_PalletTown",
       "border_filepath": "data/layouts/Route1_C/border.bin",
       "blockdata_filepath": "data/layouts/Route1_C/map.bin"
@@ -10281,11 +10281,11 @@
     {
       "id": "LAYOUT_RECORD_TOWN",
       "name": "RecordTown_Layout",
-      "width": 32,
+      "width": 36,
       "height": 24,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_ViridianCity",
       "border_filepath": "data/layouts/RecordTown/border.bin",
       "blockdata_filepath": "data/layouts/RecordTown/map.bin"
@@ -10297,7 +10297,7 @@
       "height": 64,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_ViridianForest",
       "border_filepath": "data/layouts/FairyForest/border.bin",
       "blockdata_filepath": "data/layouts/FairyForest/map.bin"
@@ -10309,7 +10309,7 @@
       "height": 64,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_FuchsiaCity",
       "border_filepath": "data/layouts/ReflectingCity/border.bin",
       "blockdata_filepath": "data/layouts/ReflectingCity/map.bin"
@@ -10321,8 +10321,8 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
-      "secondary_tileset": "gTileset_CeruleanCity",
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_FuchsiaCity",
       "border_filepath": "data/layouts/Route2_C/border.bin",
       "blockdata_filepath": "data/layouts/Route2_C/map.bin"
     },
@@ -10333,7 +10333,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_SeafoamIslands",
       "border_filepath": "data/layouts/CommonCave_1F/border.bin",
       "blockdata_filepath": "data/layouts/CommonCave_1F/map.bin"
@@ -10345,7 +10345,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_SeafoamIslands",
       "border_filepath": "data/layouts/CommonCave_B1F/border.bin",
       "blockdata_filepath": "data/layouts/CommonCave_B1F/map.bin"
@@ -10357,7 +10357,7 @@
       "height": 28,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/UltramarineCity/border.bin",
       "blockdata_filepath": "data/layouts/UltramarineCity/map.bin"
@@ -10369,7 +10369,7 @@
       "height": 36,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/TenTrail/border.bin",
       "blockdata_filepath": "data/layouts/TenTrail/map.bin"
@@ -10381,7 +10381,7 @@
       "height": 64,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_ViridianForest",
       "border_filepath": "data/layouts/GuignolGrove/border.bin",
       "blockdata_filepath": "data/layouts/GuignolGrove/map.bin"
@@ -10393,7 +10393,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/RainbowRiver/border.bin",
       "blockdata_filepath": "data/layouts/RainbowRiver/map.bin"
@@ -10405,7 +10405,7 @@
       "height": 24,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_Swamp",
       "border_filepath": "data/layouts/Route3_C/border.bin",
       "blockdata_filepath": "data/layouts/Route3_C/map.bin"
@@ -10417,7 +10417,7 @@
       "height": 64,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_Swamp",
       "border_filepath": "data/layouts/SilentSwamp/border.bin",
       "blockdata_filepath": "data/layouts/SilentSwamp/map.bin"
@@ -10429,7 +10429,7 @@
       "height": 64,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_Swamp",
       "border_filepath": "data/layouts/LotusLake/border.bin",
       "blockdata_filepath": "data/layouts/LotusLake/map.bin"
@@ -10441,7 +10441,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_FuchsiaCity",
       "border_filepath": "data/layouts/SafariZone_6/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_6/map.bin"
@@ -10453,8 +10453,8 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
-      "secondary_tileset": "gTileset_Snow2",
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Fallarbor",
       "border_filepath": "data/layouts/SafariZone_7/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_7/map.bin"
     },
@@ -10466,7 +10466,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_RG_General",
-      "secondary_tileset": "gTileset_RG_SeviiIslands123",
+      "secondary_tileset": "gTileset_Fallarbor",
       "border_filepath": "data/layouts/SafariZone_27/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_27/map.bin"
     },
@@ -10477,7 +10477,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/SafariZone_8/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_8/map.bin"
@@ -10489,7 +10489,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/SafariZone_9/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_9/map.bin"
@@ -10501,7 +10501,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_Autumn",
       "border_filepath": "data/layouts/SafariZone_10/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_10/map.bin"
@@ -10513,7 +10513,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_MtEmber",
       "border_filepath": "data/layouts/SafariZone_11/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_11/map.bin"
@@ -10525,7 +10525,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/SafariZone_26/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_26/map.bin"
@@ -10537,7 +10537,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_JapaneseTown",
       "border_filepath": "data/layouts/SafariZone_25/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_25/map.bin"
@@ -10549,7 +10549,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/SafariZone_24/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_24/map.bin"
@@ -10573,7 +10573,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/SafariZone_22/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_22/map.bin"
@@ -10585,7 +10585,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/SafariZone_21/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_21/map.bin"
@@ -10597,8 +10597,8 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
-      "secondary_tileset": "gTileset_CeruleanCity",
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_MtEmber",
       "border_filepath": "data/layouts/SafariZone_5/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_5/map.bin"
     },
@@ -10609,7 +10609,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/SafariZone_4/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_4/map.bin"
@@ -10621,7 +10621,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/SafariZone_3/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_3/map.bin"
@@ -10633,8 +10633,8 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
-      "secondary_tileset": "gTileset_LavenderTown",
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/SafariZone_2/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_2/map.bin"
     },
@@ -10645,7 +10645,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/SafariZone_1/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_1/map.bin"
@@ -10657,7 +10657,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/SafariZone_20/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_20/map.bin"
@@ -10669,7 +10669,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_MtEmber",
       "border_filepath": "data/layouts/SafariZone_19/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_19/map.bin"
@@ -10681,7 +10681,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/SafariZone_18/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_18/map.bin"
@@ -10693,7 +10693,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_SaffronCity",
       "border_filepath": "data/layouts/SafariZone_17/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_17/map.bin"
@@ -10705,7 +10705,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_SeviiIslands45",
       "border_filepath": "data/layouts/SafariZone_16/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_16/map.bin"
@@ -10717,7 +10717,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_Cave_Frlg",
       "border_filepath": "data/layouts/SafariZone_15/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_15/map.bin"
@@ -10729,7 +10729,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/SafariZone_14/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_14/map.bin"
@@ -10753,7 +10753,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_JapaneseTown",
       "border_filepath": "data/layouts/SafariZone_12/border.bin",
       "blockdata_filepath": "data/layouts/SafariZone_12/map.bin"
@@ -10765,7 +10765,7 @@
       "height": 64,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_MtEmber",
       "border_filepath": "data/layouts/GreatGrotto_1F/border.bin",
       "blockdata_filepath": "data/layouts/GreatGrotto_1F/map.bin"
@@ -10777,7 +10777,7 @@
       "height": 24,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_MtEmber",
       "border_filepath": "data/layouts/GreatGrotto_B2F/border.bin",
       "blockdata_filepath": "data/layouts/GreatGrotto_B2F/map.bin"
@@ -10789,7 +10789,7 @@
       "height": 64,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_MtEmber",
       "border_filepath": "data/layouts/GreatGrotto_B1F/border.bin",
       "blockdata_filepath": "data/layouts/GreatGrotto_B1F/map.bin"
@@ -10801,7 +10801,7 @@
       "height": 16,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_Cave_Frlg",
       "border_filepath": "data/layouts/ChangingCave_1F/border.bin",
       "blockdata_filepath": "data/layouts/ChangingCave_1F/map.bin"
@@ -10813,7 +10813,7 @@
       "height": 24,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_NavelRock_Frlg",
       "border_filepath": "data/layouts/ChangingCave_B2F/border.bin",
       "blockdata_filepath": "data/layouts/ChangingCave_B2F/map.bin"
@@ -10825,7 +10825,7 @@
       "height": 56,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_Cave_Frlg",
       "border_filepath": "data/layouts/ChangingCave_B1F/border.bin",
       "blockdata_filepath": "data/layouts/ChangingCave_B1F/map.bin"
@@ -10837,7 +10837,7 @@
       "height": 24,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_Barn",
       "border_filepath": "data/layouts/Route4_C/border.bin",
       "blockdata_filepath": "data/layouts/Route4_C/map.bin"
@@ -10849,7 +10849,7 @@
       "height": 64,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/Route5_C/border.bin",
       "blockdata_filepath": "data/layouts/Route5_C/map.bin"
@@ -10861,7 +10861,7 @@
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_Barn",
       "border_filepath": "data/layouts/FaithFarm/border.bin",
       "blockdata_filepath": "data/layouts/FaithFarm/map.bin"
@@ -10873,7 +10873,7 @@
       "height": 36,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_VermilionCity",
       "border_filepath": "data/layouts/StrangeCity/border.bin",
       "blockdata_filepath": "data/layouts/StrangeCity/map.bin"
@@ -10881,12 +10881,12 @@
     {
       "id": "LAYOUT_STRANGE_SHORE",
       "name": "StrangeShore_Layout",
-      "width": 32,
+      "width": 64,
       "height": 32,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
-      "secondary_tileset": "gTileset_VermilionCity",
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Slateport",
       "border_filepath": "data/layouts/StrangeShore/border.bin",
       "blockdata_filepath": "data/layouts/StrangeShore/map.bin"
     },
@@ -10897,7 +10897,7 @@
       "height": 72,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
       "border_filepath": "data/layouts/Route6_C/border.bin",
       "blockdata_filepath": "data/layouts/Route6_C/map.bin"
@@ -10909,7 +10909,7 @@
       "height": 24,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CinnabarIsland",
       "border_filepath": "data/layouts/MasqueradeManor_Outside/border.bin",
       "blockdata_filepath": "data/layouts/MasqueradeManor_Outside/map.bin"
@@ -10917,14 +10917,278 @@
     {
       "id": "LAYOUT_DREAM_TOWN",
       "name": "DreamTown_Layout",
+      "width": 32,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_CeruleanCity",
+      "border_filepath": "data/layouts/DreamTown/border.bin",
+      "blockdata_filepath": "data/layouts/DreamTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_MASQUERADE_MANOR_1F",
+      "name": "MasqueradeManor_1F_Layout",
+      "width": 71,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_Building",
+      "secondary_tileset": "gTileset_ScarletMansion",
+      "border_filepath": "data/layouts/MasqueradeManor_1F/border.bin",
+      "blockdata_filepath": "data/layouts/MasqueradeManor_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_MASQUERADE_MANOR_2F",
+      "name": "MasqueradeManor_2F_Layout",
+      "width": 71,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_Building",
+      "secondary_tileset": "gTileset_ScarletMansion",
+      "border_filepath": "data/layouts/MasqueradeManor_2F/border.bin",
+      "blockdata_filepath": "data/layouts/MasqueradeManor_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_MASQUERADE_MANOR_B1F",
+      "name": "MasqueradeManor_B1F_Layout",
       "width": 24,
       "height": 24,
       "border_width": 2,
       "border_height": 2,
-      "primary_tileset": "gTileset_GeneralFrlg",
+      "primary_tileset": "gTileset_RG_Building",
+      "secondary_tileset": "gTileset_ScarletMansion",
+      "border_filepath": "data/layouts/MasqueradeManor_B1F/border.bin",
+      "blockdata_filepath": "data/layouts/MasqueradeManor_B1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_TABOO_THICKET",
+      "name": "TabooThicket_Layout",
+      "width": 32,
+      "height": 96,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
       "secondary_tileset": "gTileset_CeruleanCity",
-      "border_filepath": "data/layouts/DreamTown/border.bin",
-      "blockdata_filepath": "data/layouts/DreamTown/map.bin"
+      "border_filepath": "data/layouts/TabooThicket/border.bin",
+      "blockdata_filepath": "data/layouts/TabooThicket/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE7_C",
+      "name": "Route7_C_Layout",
+      "width": 24,
+      "height": 72,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_CeruleanCity",
+      "border_filepath": "data/layouts/Route7_C/border.bin",
+      "blockdata_filepath": "data/layouts/Route7_C/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE8_C",
+      "name": "Route8_C_Layout",
+      "width": 24,
+      "height": 72,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Slateport",
+      "border_filepath": "data/layouts/Route8_C/border.bin",
+      "blockdata_filepath": "data/layouts/Route8_C/map.bin"
+    },
+    {
+      "id": "LAYOUT_BIZARRE_BEACH",
+      "name": "BizarreBeach_Layout",
+      "width": 24,
+      "height": 72,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Slateport",
+      "border_filepath": "data/layouts/BizarreBeach/border.bin",
+      "blockdata_filepath": "data/layouts/BizarreBeach/map.bin"
+    },
+    {
+      "id": "LAYOUT_SHINING_CITY",
+      "name": "ShiningCity_Layout",
+      "width": 48,
+      "height": 38,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_CeladonCity",
+      "border_filepath": "data/layouts/ShiningCity/border.bin",
+      "blockdata_filepath": "data/layouts/ShiningCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROMANTIC_PORT",
+      "name": "RomanticPort_Layout",
+      "width": 32,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Slateport",
+      "border_filepath": "data/layouts/RomanticPort/border.bin",
+      "blockdata_filepath": "data/layouts/RomanticPort/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE9_C",
+      "name": "Route9_C_Layout",
+      "width": 64,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_CeladonCity",
+      "border_filepath": "data/layouts/Route9_C/border.bin",
+      "blockdata_filepath": "data/layouts/Route9_C/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_MYSTIC_1F",
+      "name": "MtMystic_1F_Layout",
+      "width": 64,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_DiglettsCave",
+      "border_filepath": "data/layouts/MtMystic_1F/border.bin",
+      "blockdata_filepath": "data/layouts/MtMystic_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_MYSTIC_PEAK",
+      "name": "MtMystic_Peak_Layout",
+      "width": 64,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_DiglettsCave",
+      "border_filepath": "data/layouts/MtMystic_Peak/border.bin",
+      "blockdata_filepath": "data/layouts/MtMystic_Peak/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_MYSTIC_2F",
+      "name": "MtMystic_2F_Layout",
+      "width": 64,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_DiglettsCave",
+      "border_filepath": "data/layouts/MtMystic_2F/border.bin",
+      "blockdata_filepath": "data/layouts/MtMystic_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_MYSTIC_3F",
+      "name": "MtMystic_3F_Layout",
+      "width": 24,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_DiglettsCave",
+      "border_filepath": "data/layouts/MtMystic_3F/border.bin",
+      "blockdata_filepath": "data/layouts/MtMystic_3F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE10_C",
+      "name": "Route10_C_Layout",
+      "width": 64,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Barn",
+      "border_filepath": "data/layouts/Route10_C/border.bin",
+      "blockdata_filepath": "data/layouts/Route10_C/map.bin"
+    },
+    {
+      "id": "LAYOUT_FANTASY_TOWN",
+      "name": "FantasyTown_Layout",
+      "width": 36,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Barn",
+      "border_filepath": "data/layouts/FantasyTown/border.bin",
+      "blockdata_filepath": "data/layouts/FantasyTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_DANMAKU_DUNES",
+      "name": "DanmakuDunes_Layout",
+      "width": 96,
+      "height": 48,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Barn",
+      "border_filepath": "data/layouts/DanmakuDunes/border.bin",
+      "blockdata_filepath": "data/layouts/DanmakuDunes/map.bin"
+    },
+    {
+      "id": "LAYOUT_GHOSTLY_CITY",
+      "name": "GhostlyCity_Layout",
+      "width": 42,
+      "height": 42,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_Barn",
+      "border_filepath": "data/layouts/GhostlyCity/border.bin",
+      "blockdata_filepath": "data/layouts/GhostlyCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_LUNATIC_LABYRINTH_1F",
+      "name": "LunaticLabyrinth_1F_Layout",
+      "width": 64,
+      "height": 64,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_TanobyRuins",
+      "border_filepath": "data/layouts/LunaticLabyrinth_1F/border.bin",
+      "blockdata_filepath": "data/layouts/LunaticLabyrinth_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_LUNATIC_LABYRINTH_2F",
+      "name": "LunaticLabyrinth_2F_Layout",
+      "width": 44,
+      "height": 44,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_TanobyRuins",
+      "border_filepath": "data/layouts/LunaticLabyrinth_2F/border.bin",
+      "blockdata_filepath": "data/layouts/LunaticLabyrinth_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_LUNATIC_LABYRINTH_3F",
+      "name": "LunaticLabyrinth_3F_Layout",
+      "width": 44,
+      "height": 44,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_TanobyRuins",
+      "border_filepath": "data/layouts/LunaticLabyrinth_3F/border.bin",
+      "blockdata_filepath": "data/layouts/LunaticLabyrinth_3F/map.bin"
+    },
+    {
+      "id": "LAYOUT_LUNATIC_LABYRINTH_B1F",
+      "name": "LunaticLabyrinth_B1F_Layout",
+      "width": 24,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_General",
+      "secondary_tileset": "gTileset_TanobyRuins",
+      "border_filepath": "data/layouts/LunaticLabyrinth_B1F/border.bin",
+      "blockdata_filepath": "data/layouts/LunaticLabyrinth_B1F/map.bin"
     }
   ]
 }

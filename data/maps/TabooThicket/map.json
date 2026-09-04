@@ -1,0 +1,61 @@
+{
+  "id": "MAP_TABOO_THICKET",
+  "name": "TabooThicket",
+  "layout": "LAYOUT_TABOO_THICKET",
+  "music": "MUS_ZGS_BAMBOO_FOREST",
+  "region_map_section": "MAPSEC_TABOO_THICKET",
+  "requires_flash": false,
+  "weather": "WEATHER_SHADE",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": true,
+  "allow_escaping": true,
+  "allow_running": true,
+  "show_map_name": true,
+  "floor_number": 0,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_TABOO_THICKET",
+      "offset": 0,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_TABOO_THICKET",
+      "offset": 0,
+      "direction": "right"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [
+    {
+      "x": 15,
+      "y": 90,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE6_C",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 16,
+      "y": 90,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE6_C",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 15,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE7_C",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 16,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE7_C",
+      "dest_warp_id": "1"
+    }
+  ],
+  "coord_events": [],
+  "bg_events": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "MAP_MT_MYSTIC_PEAK",
+  "name": "MtMystic_Peak",
+  "layout": "LAYOUT_MT_MYSTIC_PEAK",
+  "music": "MUS_ZGS_SEVII_CAVE",
+  "region_map_section": "MAPSEC_MT_MYSTIC",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": true,
+  "allow_escaping": true,
+  "allow_running": true,
+  "show_map_name": true,
+  "floor_number": 0,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": null,
+  "object_events": [],
+  "warp_events": [
+    {
+      "x": 3,
+      "y": 1,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MYSTIC_3F",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MYSTIC_2F",
+      "dest_warp_id": "8"
+    },
+    {
+      "x": 35,
+      "y": 7,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MYSTIC_2F",
+      "dest_warp_id": "9"
+    },
+    {
+      "x": 32,
+      "y": 22,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MYSTIC_2F",
+      "dest_warp_id": "10"
+    },
+    {
+      "x": 58,
+      "y": 23,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MYSTIC_2F",
+      "dest_warp_id": "11"
+    }
+  ],
+  "coord_events": [],
+  "bg_events": []
+}
