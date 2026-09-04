@@ -78,8 +78,9 @@
     "gMapGroup_Towns_C",
     "gMapGroup_Routes_C",
     "gMapGroup_Dungeons_C",
+    "gMapGroup_SafariZone",
     "gMapGroup_IndoorWondrous",
-    "gMapGroup_SafariZone"
+    "gMapGroup_IndoorRecord"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -1224,11 +1225,6 @@
     "LunaticLabyrinth_3F",
     "LunaticLabyrinth_B1F"
   ],
-  "gMapGroup_IndoorWondrous": [
-    "PlayerRoom",
-    "PlayerHome",
-    "WondrousLab"
-  ],
   "gMapGroup_SafariZone": [
     "SafariZone_6",
     "SafariZone_7",
@@ -1257,5 +1253,14 @@
     "SafariZone_24",
     "SafariZone_25",
     "SafariZone_26"
+  ],
+  "gMapGroup_IndoorWondrous": [
+    "PlayerRoom",
+    "PlayerHome",
+    "WondrousLab",
+    "WondrousHouse"
+  ],
+  "gMapGroup_IndoorRecord": [
+    "RecordBerryHouse"
   ]
 }

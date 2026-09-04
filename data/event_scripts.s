@@ -1966,3 +1966,9 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/LunaticLabyrinth_2F/scripts.inc"
 	.include "data/maps/LunaticLabyrinth_2F/text.inc"
+
+	.include "data/maps/WondrousHouse/scripts.inc"
+	.include "data/maps/WondrousHouse/text.inc"
+
+	.include "data/maps/RecordBerryHouse/scripts.inc"
+	.include "data/maps/RecordBerryHouse/text.inc"

@@ -11189,6 +11189,30 @@
       "secondary_tileset": "gTileset_TanobyRuins",
       "border_filepath": "data/layouts/LunaticLabyrinth_B1F/border.bin",
       "blockdata_filepath": "data/layouts/LunaticLabyrinth_B1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_WONDROUS_HOUSE",
+      "name": "WondrousHouse_Layout",
+      "width": 13,
+      "height": 10,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_Building",
+      "secondary_tileset": "gTileset_GenericBuilding1",
+      "border_filepath": "data/layouts/WondrousHouse/border.bin",
+      "blockdata_filepath": "data/layouts/WondrousHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_RECORD_BERRY_HOUSE",
+      "name": "RecordBerryHouse_Layout",
+      "width": 12,
+      "height": 10,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_RG_Building",
+      "secondary_tileset": "gTileset_CeladonGym",
+      "border_filepath": "data/layouts/RecordBerryHouse/border.bin",
+      "blockdata_filepath": "data/layouts/RecordBerryHouse/map.bin"
     }
   ]
 }
